@@ -1,0 +1,3007 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../个股行情（1页）_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:325px;
+    top:36px;
+    width:338px;
+    height:502px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:344px;
+    height:508px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:243px;
+    width:334px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../个股行情（1页）_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:335px;
+    top:71px;
+    width:320px;
+    height:45px;
+}
+
+#u2_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:45px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:335px;
+    top:76px;
+    width:320px;
+    height:37px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../个股行情（1页）_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:340px;
+    top:77px;
+    width:65px;
+    height:32px;
+}
+
+#u5_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:65px;
+    height:32px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:350px;
+    top:83px;
+    width:50px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../个股行情（1页）_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:625px;
+    top:82px;
+    width:23px;
+    height:23px;
+}
+
+#u8_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:23px;
+    height:23px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:629px;
+    top:85px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../个股行情（1页）_files/u11_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:335px;
+    top:51px;
+    width:320px;
+    height:20px;
+}
+
+#u11_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:20px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../个股行情（1页）_files/u13_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:411px;
+    top:50px;
+    width:183px;
+    height:20px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:26px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:179px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../个股行情（1页）_files/u15_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:433px;
+    top:70px;
+    width:130px;
+    height:45px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:51px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../个股行情（1页）_files/u17_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:617px;
+    top:492px;
+    width:37px;
+    height:45px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:43px;
+    height:51px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:33px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../个股行情（1页）_files/u19_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:155px;
+    top:77px;
+    width:146px;
+    height:36px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:152px;
+    height:42px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:142px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21 {
+    position:absolute;
+    left:120px;
+    top:156px;
+    width:195px;
+    height:160px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:145px;
+    top:596px;
+    width:150px;
+    height:160px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../个股行情（1页）_files/u23_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:335px;
+    top:248px;
+    width:320px;
+    height:161px;
+}
+
+#u23_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:161px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:72px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25 {
+    position:absolute;
+    left:350px;
+    top:116px;
+    width:130px;
+    height:42px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:350px;
+    top:158px;
+    width:60px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:405px;
+    top:158px;
+    width:75px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
+    position:absolute;
+    left:509px;
+    top:117px;
+    width:56px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:575px;
+    top:117px;
+    width:55px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30 {
+    position:absolute;
+    left:575px;
+    top:149px;
+    width:62px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:509px;
+    top:149px;
+    width:56px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_line {
+    background-image: url('../个股行情（1页）_files/u32_line.png');
+}
+
+.u32_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:319px;
+    height:3px;
+}
+
+.u32 {
+    position:absolute;
+    left:335px;
+    top:181px;
+    width:319px;
+    height:10px;
+    
+}
+
+.u33 {
+    position:absolute;
+    left:335px;
+    top:191px;
+    width:105px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:442px;
+    top:191px;
+    width:105px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35 {
+    position:absolute;
+    left:536px;
+    top:191px;
+    width:127px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36 {
+    position:absolute;
+    left:335px;
+    top:212px;
+    width:105px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:442px;
+    top:212px;
+    width:105px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38 {
+    position:absolute;
+    left:536px;
+    top:212px;
+    width:127px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39_line {
+    background-image: url('../个股行情（1页）_files/u39_line.png');
+}
+
+.u39_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:319px;
+    height:3px;
+}
+
+.u39 {
+    position:absolute;
+    left:335px;
+    top:403px;
+    width:319px;
+    height:10px;
+    
+}
+
+.u40_selected {
+    background-image: url('../个股行情（1页）_files/分时1_u40_selected.png');
+}
+
+.u40_normal {
+    background-image: url('../个股行情（1页）_files/分时1_u40_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:367px;
+    top:228px;
+    width:75px;
+    height:20px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:26px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_selected {
+    background-image: url('../个股行情（1页）_files/3_u42_selected.png');
+}
+
+.u42_normal {
+    background-image: url('../个股行情（1页）_files/3_u42_normal.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:502px;
+    top:228px;
+    width:60px;
+    height:20px;
+}
+
+#u42_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:26px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_selected {
+    background-image: url('../个股行情（1页）_files/3_u42_selected.png');
+}
+
+.u44_normal {
+    background-image: url('../个股行情（1页）_files/3_u42_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:562px;
+    top:228px;
+    width:60px;
+    height:20px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:26px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_selected {
+    background-image: url('../个股行情（1页）_files/3_u42_selected.png');
+}
+
+.u46_normal {
+    background-image: url('../个股行情（1页）_files/3_u42_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:442px;
+    top:228px;
+    width:60px;
+    height:20px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:26px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_normal {
+    background-image: url('../个股行情（1页）_files/u48_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:442px;
+    top:116px;
+    width:21px;
+    height:20px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:27px;
+    height:26px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:17px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_selected {
+    background-image: url('../个股行情（1页）_files/u50_selected.png');
+}
+
+.u50_normal {
+    background-image: url('../个股行情（1页）_files/u50_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:335px;
+    top:423px;
+    width:320px;
+    height:25px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:31px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../个股行情（1页）_files/u52_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:335px;
+    top:448px;
+    width:320px;
+    height:140px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:146px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:62px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54 {
+    position:absolute;
+    left:340px;
+    top:458px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55 {
+    position:absolute;
+    left:340px;
+    top:478px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56 {
+    position:absolute;
+    left:415px;
+    top:478px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57 {
+    position:absolute;
+    left:530px;
+    top:478px;
+    width:265px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58_line {
+    background-image: url('../个股行情（1页）_files/u58_line.png');
+}
+
+.u58_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u58 {
+    position:absolute;
+    left:335px;
+    top:492px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u59 {
+    position:absolute;
+    left:340px;
+    top:502px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60 {
+    position:absolute;
+    left:340px;
+    top:522px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61 {
+    position:absolute;
+    left:415px;
+    top:522px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62 {
+    position:absolute;
+    left:530px;
+    top:522px;
+    width:265px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63_line {
+    background-image: url('../个股行情（1页）_files/u63_line.png');
+}
+
+.u63_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u63 {
+    position:absolute;
+    left:335px;
+    top:538px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u64 {
+    position:absolute;
+    left:340px;
+    top:548px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65 {
+    position:absolute;
+    left:340px;
+    top:568px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66 {
+    position:absolute;
+    left:415px;
+    top:568px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67 {
+    position:absolute;
+    left:530px;
+    top:568px;
+    width:265px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68_line {
+    background-image: url('../个股行情（1页）_files/u68_line.png');
+}
+
+.u68_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u68 {
+    position:absolute;
+    left:335px;
+    top:583px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u69_line {
+    background-image: url('../个股行情（1页）_files/u69_line.png');
+}
+
+.u69_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u69 {
+    position:absolute;
+    left:335px;
+    top:706px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u70 {
+    position:absolute;
+    left:370px;
+    top:611px;
+    width:265px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71 {
+    position:absolute;
+    left:370px;
+    top:680px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_normal {
+    background-image: url('../个股行情（1页）_files/u72_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:335px;
+    top:595px;
+    width:25px;
+    height:25px;
+}
+
+#u72_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:25px;
+    height:25px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74 {
+    position:absolute;
+    left:370px;
+    top:595px;
+    width:125px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75_normal {
+    background-image: url('../个股行情（1页）_files/u75_normal.png');
+}
+
+.u75_container {
+    position:absolute;
+    left:465px;
+    top:595px;
+    width:16px;
+    height:16px;
+}
+
+#u75_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u76 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u77 {
+    position:absolute;
+    left:590px;
+    top:680px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78_normal {
+    background-image: url('../个股行情（1页）_files/u78_normal.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:555px;
+    top:595px;
+    width:16px;
+    height:16px;
+}
+
+#u78_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../个股行情（1页）_files/u80_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:595px;
+    top:595px;
+    width:16px;
+    height:16px;
+}
+
+#u80_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_normal {
+    background-image: url('../个股行情（1页）_files/u82_normal.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:569px;
+    top:680px;
+    width:16px;
+    height:16px;
+}
+
+#u82_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84 {
+    position:absolute;
+    left:575px;
+    top:595px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85 {
+    position:absolute;
+    left:616px;
+    top:595px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u86 {
+    position:absolute;
+    left:335px;
+    top:711px;
+    width:321px;
+    height:26px;
+    overflow:hidden;
+}
+
+#pd0u86 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:321px;
+    height:26px;
+    
+}
+
+.u87_selected {
+    background-image: url('../个股行情（1页）_files/3_u87_selected.png');
+}
+
+.u87_normal {
+    background-image: url('../个股行情（1页）_files/3_u87_normal.png');
+}
+
+.u87_container {
+    position:absolute;
+    left:107px;
+    top:0px;
+    width:107px;
+    height:25px;
+}
+
+#u87_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:31px;
+}
+
+.u88 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:103px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89_selected {
+    background-image: url('../个股行情（1页）_files/3_u87_selected.png');
+}
+
+.u89_normal {
+    background-image: url('../个股行情（1页）_files/3_u87_normal.png');
+}
+
+.u89_container {
+    position:absolute;
+    left:213px;
+    top:0px;
+    width:107px;
+    height:25px;
+}
+
+#u89_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:31px;
+}
+
+.u90 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:103px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91_selected {
+    background-image: url('../个股行情（1页）_files/3_u87_selected.png');
+}
+
+.u91_normal {
+    background-image: url('../个股行情（1页）_files/3_u87_normal.png');
+}
+
+.u91_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:107px;
+    height:25px;
+}
+
+#u91_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:31px;
+}
+
+.u92 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:103px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u93_normal {
+    background-image: url('../个股行情（1页）_files/u93_normal.png');
+}
+
+.u93_container {
+    position:absolute;
+    left:340px;
+    top:448px;
+    width:310px;
+    height:45px;
+}
+
+#u93_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:316px;
+    height:51px;
+}
+
+.u94 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:306px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95_normal {
+    background-image: url('../个股行情（1页）_files/u95_normal.png');
+}
+
+.u95_container {
+    position:absolute;
+    left:673px;
+    top:453px;
+    width:220px;
+    height:35px;
+}
+
+#u95_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:41px;
+}
+
+.u96 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97_normal {
+    background-image: url('../个股行情（1页）_files/u97_normal.png');
+}
+
+.u97_container {
+    position:absolute;
+    left:665px;
+    top:595px;
+    width:202px;
+    height:36px;
+}
+
+#u97_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:208px;
+    height:42px;
+}
+
+.u98 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:198px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u99_normal {
+    background-image: url('../个股行情（1页）_files/u99_normal.png');
+}
+
+.u99_container {
+    position:absolute;
+    left:665px;
+    top:794px;
+    width:210px;
+    height:86px;
+}
+
+#u99_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:216px;
+    height:92px;
+}
+
+.u100 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:206px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u101_normal {
+    background-image: url('../个股行情（1页）_files/u101_normal.png');
+}
+
+.u101_container {
+    position:absolute;
+    left:335px;
+    top:736px;
+    width:320px;
+    height:464px;
+}
+
+#u101_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:470px;
+}
+
+.u102 {
+    position:absolute;
+    left:2px;
+    top:224px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u103 {
+    position:absolute;
+    left:340px;
+    top:746px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104 {
+    position:absolute;
+    left:340px;
+    top:766px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u105 {
+    position:absolute;
+    left:530px;
+    top:766px;
+    width:265px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106_line {
+    background-image: url('../个股行情（1页）_files/u106_line.png');
+}
+
+.u106_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u106 {
+    position:absolute;
+    left:335px;
+    top:780px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u107 {
+    position:absolute;
+    left:340px;
+    top:790px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108 {
+    position:absolute;
+    left:340px;
+    top:810px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u109 {
+    position:absolute;
+    left:530px;
+    top:810px;
+    width:265px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110_line {
+    background-image: url('../个股行情（1页）_files/u110_line.png');
+}
+
+.u110_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u110 {
+    position:absolute;
+    left:335px;
+    top:826px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u111 {
+    position:absolute;
+    left:340px;
+    top:836px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112 {
+    position:absolute;
+    left:340px;
+    top:856px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u113 {
+    position:absolute;
+    left:530px;
+    top:856px;
+    width:265px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u114_line {
+    background-image: url('../个股行情（1页）_files/u114_line.png');
+}
+
+.u114_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u114 {
+    position:absolute;
+    left:335px;
+    top:872px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u115 {
+    position:absolute;
+    left:340px;
+    top:882px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116 {
+    position:absolute;
+    left:340px;
+    top:902px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u117 {
+    position:absolute;
+    left:530px;
+    top:902px;
+    width:265px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118_line {
+    background-image: url('../个股行情（1页）_files/u118_line.png');
+}
+
+.u118_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u118 {
+    position:absolute;
+    left:335px;
+    top:918px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u119 {
+    position:absolute;
+    left:340px;
+    top:928px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u120 {
+    position:absolute;
+    left:340px;
+    top:948px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u121 {
+    position:absolute;
+    left:530px;
+    top:948px;
+    width:265px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122_line {
+    background-image: url('../个股行情（1页）_files/u122_line.png');
+}
+
+.u122_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u122 {
+    position:absolute;
+    left:335px;
+    top:964px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u123 {
+    position:absolute;
+    left:340px;
+    top:974px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124 {
+    position:absolute;
+    left:340px;
+    top:994px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u125 {
+    position:absolute;
+    left:530px;
+    top:994px;
+    width:265px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126_line {
+    background-image: url('../个股行情（1页）_files/u126_line.png');
+}
+
+.u126_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u126 {
+    position:absolute;
+    left:335px;
+    top:1010px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u127 {
+    position:absolute;
+    left:340px;
+    top:1020px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128 {
+    position:absolute;
+    left:340px;
+    top:1040px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u129 {
+    position:absolute;
+    left:530px;
+    top:1040px;
+    width:265px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130_line {
+    background-image: url('../个股行情（1页）_files/u130_line.png');
+}
+
+.u130_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u130 {
+    position:absolute;
+    left:335px;
+    top:1056px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u131 {
+    position:absolute;
+    left:340px;
+    top:1066px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u132 {
+    position:absolute;
+    left:340px;
+    top:1086px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u133 {
+    position:absolute;
+    left:530px;
+    top:1086px;
+    width:265px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u134_line {
+    background-image: url('../个股行情（1页）_files/u134_line.png');
+}
+
+.u134_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u134 {
+    position:absolute;
+    left:335px;
+    top:1102px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u135 {
+    position:absolute;
+    left:340px;
+    top:1112px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136 {
+    position:absolute;
+    left:340px;
+    top:1132px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u137 {
+    position:absolute;
+    left:530px;
+    top:1132px;
+    width:265px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u138_line {
+    background-image: url('../个股行情（1页）_files/u138_line.png');
+}
+
+.u138_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u138 {
+    position:absolute;
+    left:335px;
+    top:1148px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u139 {
+    position:absolute;
+    left:340px;
+    top:1158px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140 {
+    position:absolute;
+    left:340px;
+    top:1178px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u141 {
+    position:absolute;
+    left:530px;
+    top:1178px;
+    width:265px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142_line {
+    background-image: url('../个股行情（1页）_files/u142_line.png');
+}
+
+.u142_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u142 {
+    position:absolute;
+    left:335px;
+    top:1194px;
+    width:320px;
+    height:10px;
+    
+}
+
+#u143 {
+    position:absolute;
+    left:335px;
+    top:1200px;
+    width:321px;
+    height:40px;
+    overflow:hidden;
+}
+
+#pd0u143 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:321px;
+    height:40px;
+    
+}
+
+.u144_normal {
+    background-image: url('../个股行情（1页）_files/u144_normal.png');
+}
+
+.u144_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:39px;
+}
+
+#u144_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:45px;
+}
+
+.u145 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146_normal {
+    background-image: url('../个股行情（1页）_files/u146_normal.png');
+}
+
+.u146_container {
+    position:absolute;
+    left:335px;
+    top:781px;
+    width:320px;
+    height:55px;
+}
+
+#u146_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:61px;
+}
+
+.u147 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148_normal {
+    background-image: url('../个股行情（1页）_files/u95_normal.png');
+}
+
+.u148_container {
+    position:absolute;
+    left:665px;
+    top:928px;
+    width:220px;
+    height:35px;
+}
+
+#u148_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:41px;
+}
+
+.u149 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:216px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150 {
+    position:absolute;
+    left:165px;
+    top:839px;
+    width:150px;
+    height:80px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u151_normal {
+    background-image: url('../个股行情（1页）_files/u151_normal.png');
+}
+
+.u151_container {
+    position:absolute;
+    left:50px;
+    top:326px;
+    width:265px;
+    height:92px;
+}
+
+#u151_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:271px;
+    height:98px;
+}
+
+.u152 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:261px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u153_normal {
+    background-image: url('../个股行情（1页）_files/u153_normal.png');
+}
+
+.u153_container {
+    position:absolute;
+    left:673px;
+    top:495px;
+    width:202px;
+    height:73px;
+}
+
+#u153_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:208px;
+    height:79px;
+}
+
+.u154 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:198px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u155_normal {
+    background-image: url('../个股行情（1页）_files/u13_normal.png');
+}
+
+.u155_container {
+    position:absolute;
+    left:673px;
+    top:85px;
+    width:183px;
+    height:20px;
+}
+
+#u155_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:26px;
+}
+
+.u156 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:179px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u157_normal {
+    background-image: url('../个股行情（1页）_files/u17_normal.png');
+}
+
+.u157_container {
+    position:absolute;
+    left:618px;
+    top:72px;
+    width:37px;
+    height:45px;
+}
+
+#u157_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:43px;
+    height:51px;
+}
+
+.u158 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:33px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u159_normal {
+    background-image: url('../个股行情（1页）_files/u159_normal.png');
+}
+
+.u159_container {
+    position:absolute;
+    left:335px;
+    top:495px;
+    width:319px;
+    height:36px;
+}
+
+#u159_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:325px;
+    height:42px;
+}
+
+.u160 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:315px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u161 {
+    position:absolute;
+    left:340px;
+    top:506px;
+    width:207px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u162 {
+    position:absolute;
+    left:575px;
+    top:423px;
+    width:76px;
+    height:105px;
+    overflow:hidden;
+}
+
+#pd2u162 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:76px;
+    height:105px;
+    
+}
+
+.u163_normal {
+    background-image: url('../个股行情（1页）_files/u163_normal.png');
+}
+
+.u163_container {
+    position:absolute;
+    left:0px;
+    top:80px;
+    width:75px;
+    height:25px;
+}
+
+#u163_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:31px;
+}
+
+.u164 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd1u162 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:76px;
+    height:105px;
+    
+}
+
+.u165_normal {
+    background-image: url('../个股行情（1页）_files/u163_normal.png');
+}
+
+.u165_container {
+    position:absolute;
+    left:0px;
+    top:5px;
+    width:75px;
+    height:25px;
+}
+
+#u165_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:31px;
+}
+
+.u166 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u167_normal {
+    background-image: url('../个股行情（1页）_files/u163_normal.png');
+}
+
+.u167_container {
+    position:absolute;
+    left:0px;
+    top:30px;
+    width:75px;
+    height:25px;
+}
+
+#u167_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:31px;
+}
+
+.u168 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u169_normal {
+    background-image: url('../个股行情（1页）_files/u163_normal.png');
+}
+
+.u169_container {
+    position:absolute;
+    left:0px;
+    top:55px;
+    width:75px;
+    height:25px;
+}
+
+#u169_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:31px;
+}
+
+.u170 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u171_normal {
+    background-image: url('../个股行情（1页）_files/u163_normal.png');
+}
+
+.u171_container {
+    position:absolute;
+    left:0px;
+    top:80px;
+    width:75px;
+    height:25px;
+}
+
+#u171_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:31px;
+}
+
+.u172 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u173 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:75px;
+    height:28px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u162 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:76px;
+    height:105px;
+    
+}
+
+.u174_normal {
+    background-image: url('../个股行情（1页）_files/u174_normal.png');
+}
+
+.u174_container {
+    position:absolute;
+    left:50px;
+    top:80px;
+    width:25px;
+    height:25px;
+}
+
+#u174_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:25px;
+    height:25px;
+}
+
+.u175 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u176_normal {
+    background-image: url('../个股行情（1页）_files/u176_normal.png');
+}
+
+.u176_container {
+    position:absolute;
+    left:684px;
+    top:146px;
+    width:180px;
+    height:80px;
+}
+
+#u176_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:86px;
+}
+
+.u177 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:176px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u178 {
+    position:absolute;
+    left:101px;
+    top:473px;
+    width:200px;
+    height:80px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u179_normal {
+    background-image: url('../个股行情（1页）_files/u176_normal.png');
+}
+
+.u179_container {
+    position:absolute;
+    left:684px;
+    top:247px;
+    width:180px;
+    height:80px;
+}
+
+#u179_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:86px;
+}
+
+.u180 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:176px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

@@ -1,0 +1,9422 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#u0 {
+    position:absolute;
+    left:360px;
+    top:70px;
+    width:320px;
+    height:46px;
+    overflow:hidden;
+}
+
+#pd1u0 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:46px;
+    
+}
+
+.u1_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u1_normal.png');
+}
+
+.u1_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:319px;
+    height:45px;
+}
+
+#u1_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:325px;
+    height:51px;
+}
+
+.u2 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:315px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u3_normal.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:197px;
+    top:12px;
+    width:21px;
+    height:20px;
+}
+
+#u3_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:21px;
+    height:20px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:17px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u0 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:46px;
+    
+}
+
+.u5_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u1_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:319px;
+    height:45px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:325px;
+    height:51px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:315px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:360px;
+    top:70px;
+    width:320px;
+    height:45px;
+}
+
+#u7_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:45px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9 {
+    position:absolute;
+    left:360px;
+    top:79px;
+    width:320px;
+    height:25px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:642px;
+    top:81px;
+    width:23px;
+    height:23px;
+}
+
+#u10_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:23px;
+    height:23px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:360px;
+    top:50px;
+    width:320px;
+    height:20px;
+}
+
+#u12_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:20px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u14_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:365px;
+    top:140px;
+    width:310px;
+    height:119px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:316px;
+    height:125px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:52px;
+    width:306px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16 {
+    position:absolute;
+    left:368px;
+    top:149px;
+    width:90px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17 {
+    position:absolute;
+    left:480px;
+    top:144px;
+    width:50px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:550px;
+    top:144px;
+    width:50px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19 {
+    position:absolute;
+    left:368px;
+    top:182px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u20 {
+    position:absolute;
+    left:615px;
+    top:147px;
+    width:56px;
+    height:26px;
+    overflow:hidden;
+}
+
+#pd1u20 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:56px;
+    height:26px;
+    
+}
+
+.u21_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u21_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:55px;
+    height:25px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:31px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:51px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u20 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:56px;
+    height:26px;
+    
+}
+
+.u23_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u23_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:30px;
+    top:0px;
+    width:25px;
+    height:25px;
+}
+
+#u23_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:25px;
+    height:25px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25 {
+    position:absolute;
+    left:594px;
+    top:182px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:380px;
+    top:232px;
+    width:150px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:513px;
+    top:232px;
+    width:88px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
+    position:absolute;
+    left:368px;
+    top:202px;
+    width:302px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_line {
+    background-image: url('../选股（6页，1个2重复）_files/u29_line.png');
+}
+
+.u29_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:310px;
+    height:3px;
+}
+
+.u29 {
+    position:absolute;
+    left:365px;
+    top:220px;
+    width:310px;
+    height:10px;
+    
+}
+
+.u30_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u30_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:365px;
+    top:264px;
+    width:310px;
+    height:169px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:316px;
+    height:175px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:76px;
+    width:306px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:367px;
+    top:273px;
+    width:90px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33 {
+    position:absolute;
+    left:479px;
+    top:268px;
+    width:50px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:549px;
+    top:268px;
+    width:50px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u35 {
+    position:absolute;
+    left:615px;
+    top:271px;
+    width:56px;
+    height:26px;
+    overflow:hidden;
+}
+
+#pd1u35 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:56px;
+    height:26px;
+    
+}
+
+.u36_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u21_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:55px;
+    height:25px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:31px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:51px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u35 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:56px;
+    height:26px;
+    
+}
+
+.u38_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u23_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:30px;
+    top:0px;
+    width:25px;
+    height:25px;
+}
+
+#u38_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:25px;
+    height:25px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40 {
+    position:absolute;
+    left:367px;
+    top:307px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41 {
+    position:absolute;
+    left:593px;
+    top:307px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:369px;
+    top:328px;
+    width:300px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43 {
+    position:absolute;
+    left:479px;
+    top:307px;
+    width:82px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_line {
+    background-image: url('../选股（6页，1个2重复）_files/u44_line.png');
+}
+
+.u44_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:310px;
+    height:3px;
+}
+
+.u44 {
+    position:absolute;
+    left:365px;
+    top:172px;
+    width:310px;
+    height:10px;
+    
+}
+
+.u45_line {
+    background-image: url('../选股（6页，1个2重复）_files/u45_line.png');
+}
+
+.u45_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:310px;
+    height:3px;
+}
+
+.u45 {
+    position:absolute;
+    left:365px;
+    top:296px;
+    width:310px;
+    height:10px;
+    
+}
+
+.u46_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u46_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:365px;
+    top:438px;
+    width:310px;
+    height:74px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:316px;
+    height:80px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:29px;
+    width:306px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48 {
+    position:absolute;
+    left:368px;
+    top:447px;
+    width:90px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49 {
+    position:absolute;
+    left:480px;
+    top:442px;
+    width:50px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50 {
+    position:absolute;
+    left:550px;
+    top:442px;
+    width:50px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u51 {
+    position:absolute;
+    left:615px;
+    top:445px;
+    width:56px;
+    height:26px;
+    overflow:hidden;
+}
+
+#pd1u51 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:56px;
+    height:26px;
+    
+}
+
+.u52_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u21_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:55px;
+    height:25px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:31px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:51px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u51 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:56px;
+    height:26px;
+    
+}
+
+.u54_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u23_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:30px;
+    top:0px;
+    width:25px;
+    height:25px;
+}
+
+#u54_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:25px;
+    height:25px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56 {
+    position:absolute;
+    left:379px;
+    top:482px;
+    width:150px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57 {
+    position:absolute;
+    left:512px;
+    top:482px;
+    width:88px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58_line {
+    background-image: url('../选股（6页，1个2重复）_files/u58_line.png');
+}
+
+.u58_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:310px;
+    height:3px;
+}
+
+.u58 {
+    position:absolute;
+    left:365px;
+    top:470px;
+    width:310px;
+    height:10px;
+    
+}
+
+#u59 {
+    position:absolute;
+    left:368px;
+    top:438px;
+    width:255px;
+    height:34px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u60_line {
+    background-image: url('../选股（6页，1个2重复）_files/u60_line.png');
+}
+
+.u60_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:310px;
+    height:3px;
+}
+
+.u60 {
+    position:absolute;
+    left:366px;
+    top:392px;
+    width:310px;
+    height:10px;
+    
+}
+
+.u61 {
+    position:absolute;
+    left:378px;
+    top:402px;
+    width:150px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62 {
+    position:absolute;
+    left:511px;
+    top:402px;
+    width:88px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u63 {
+    position:absolute;
+    left:368px;
+    top:478px;
+    width:302px;
+    height:34px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u64_selected {
+    background-image: url('../选股（6页，1个2重复）_files/点评1_u64_selected.png');
+}
+
+.u64_normal {
+    background-image: url('../选股（6页，1个2重复）_files/点评1_u64_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:360px;
+    top:114px;
+    width:110px;
+    height:25px;
+}
+
+#u64_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:31px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_selected {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_selected.png');
+}
+
+.u66_normal {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:470px;
+    top:114px;
+    width:70px;
+    height:25px;
+}
+
+#u66_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:31px;
+}
+
+.u67 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u68 {
+    position:absolute;
+    left:360px;
+    top:1125px;
+    width:320px;
+    height:46px;
+    overflow:hidden;
+}
+
+#pd1u68 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:46px;
+    
+}
+
+.u69_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u1_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:319px;
+    height:45px;
+}
+
+#u69_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:325px;
+    height:51px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:315px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u3_normal.png');
+}
+
+.u71_container {
+    position:absolute;
+    left:197px;
+    top:12px;
+    width:21px;
+    height:20px;
+}
+
+#u71_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:21px;
+    height:20px;
+}
+
+.u72 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:17px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u68 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:46px;
+    
+}
+
+.u73_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u1_normal.png');
+}
+
+.u73_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:319px;
+    height:45px;
+}
+
+#u73_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:325px;
+    height:51px;
+}
+
+.u74 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:315px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u7_normal.png');
+}
+
+.u75_container {
+    position:absolute;
+    left:360px;
+    top:1125px;
+    width:320px;
+    height:45px;
+}
+
+#u75_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:45px;
+}
+
+.u76 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u77 {
+    position:absolute;
+    left:360px;
+    top:1134px;
+    width:320px;
+    height:25px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u10_normal.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:642px;
+    top:1136px;
+    width:23px;
+    height:23px;
+}
+
+#u78_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:23px;
+    height:23px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u12_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:360px;
+    top:1105px;
+    width:320px;
+    height:20px;
+}
+
+#u80_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:20px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u82_normal.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:360px;
+    top:1195px;
+    width:320px;
+    height:330px;
+}
+
+#u82_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:336px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:157px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84 {
+    position:absolute;
+    left:365px;
+    top:1205px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85 {
+    position:absolute;
+    left:555px;
+    top:1225px;
+    width:150px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_line {
+    background-image: url('../选股（6页，1个2重复）_files/u86_line.png');
+}
+
+.u86_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u86 {
+    position:absolute;
+    left:360px;
+    top:1239px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u87 {
+    position:absolute;
+    left:365px;
+    top:1249px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88 {
+    position:absolute;
+    left:365px;
+    top:1269px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89 {
+    position:absolute;
+    left:440px;
+    top:1269px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90 {
+    position:absolute;
+    left:555px;
+    top:1269px;
+    width:150px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91_line {
+    background-image: url('../选股（6页，1个2重复）_files/u91_line.png');
+}
+
+.u91_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u91 {
+    position:absolute;
+    left:360px;
+    top:1285px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u92 {
+    position:absolute;
+    left:365px;
+    top:1295px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u93 {
+    position:absolute;
+    left:555px;
+    top:1315px;
+    width:150px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94_line {
+    background-image: url('../选股（6页，1个2重复）_files/u94_line.png');
+}
+
+.u94_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u94 {
+    position:absolute;
+    left:360px;
+    top:1331px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u95 {
+    position:absolute;
+    left:365px;
+    top:1341px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96 {
+    position:absolute;
+    left:555px;
+    top:1361px;
+    width:150px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97_line {
+    background-image: url('../选股（6页，1个2重复）_files/u97_line.png');
+}
+
+.u97_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u97 {
+    position:absolute;
+    left:360px;
+    top:1377px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u98 {
+    position:absolute;
+    left:365px;
+    top:1387px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u99 {
+    position:absolute;
+    left:555px;
+    top:1407px;
+    width:150px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100_line {
+    background-image: url('../选股（6页，1个2重复）_files/u100_line.png');
+}
+
+.u100_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u100 {
+    position:absolute;
+    left:360px;
+    top:1423px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u101 {
+    position:absolute;
+    left:365px;
+    top:1433px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102 {
+    position:absolute;
+    left:555px;
+    top:1453px;
+    width:150px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u103_line {
+    background-image: url('../选股（6页，1个2重复）_files/u103_line.png');
+}
+
+.u103_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u103 {
+    position:absolute;
+    left:360px;
+    top:1469px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u104 {
+    position:absolute;
+    left:365px;
+    top:1479px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u105 {
+    position:absolute;
+    left:365px;
+    top:1499px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106 {
+    position:absolute;
+    left:555px;
+    top:1499px;
+    width:265px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u107_line {
+    background-image: url('../选股（6页，1个2重复）_files/u107_line.png');
+}
+
+.u107_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u107 {
+    position:absolute;
+    left:360px;
+    top:1540px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u108 {
+    position:absolute;
+    left:403px;
+    top:1772px;
+    width:265px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u109 {
+    position:absolute;
+    left:403px;
+    top:1841px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u110_normal.png');
+}
+
+.u110_container {
+    position:absolute;
+    left:368px;
+    top:1756px;
+    width:25px;
+    height:25px;
+}
+
+#u110_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:25px;
+    height:25px;
+}
+
+.u111 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112 {
+    position:absolute;
+    left:403px;
+    top:1756px;
+    width:125px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u113_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u113_normal.png');
+}
+
+.u113_container {
+    position:absolute;
+    left:498px;
+    top:1756px;
+    width:16px;
+    height:16px;
+}
+
+#u113_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u114 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u115 {
+    position:absolute;
+    left:623px;
+    top:1841px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u116_normal.png');
+}
+
+.u116_container {
+    position:absolute;
+    left:588px;
+    top:1756px;
+    width:16px;
+    height:16px;
+}
+
+#u116_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u117 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u118_normal.png');
+}
+
+.u118_container {
+    position:absolute;
+    left:628px;
+    top:1756px;
+    width:16px;
+    height:16px;
+}
+
+#u118_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u119 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u120_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u120_normal.png');
+}
+
+.u120_container {
+    position:absolute;
+    left:602px;
+    top:1841px;
+    width:16px;
+    height:16px;
+}
+
+#u120_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u121 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122 {
+    position:absolute;
+    left:608px;
+    top:1756px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u123 {
+    position:absolute;
+    left:649px;
+    top:1756px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124_line {
+    background-image: url('../选股（6页，1个2重复）_files/u124_line.png');
+}
+
+.u124_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:310px;
+    height:3px;
+}
+
+.u124 {
+    position:absolute;
+    left:368px;
+    top:1883px;
+    width:310px;
+    height:10px;
+    
+}
+
+.u125 {
+    position:absolute;
+    left:403px;
+    top:1913px;
+    width:265px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126 {
+    position:absolute;
+    left:403px;
+    top:1982px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u127_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u110_normal.png');
+}
+
+.u127_container {
+    position:absolute;
+    left:368px;
+    top:1897px;
+    width:25px;
+    height:25px;
+}
+
+#u127_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:25px;
+    height:25px;
+}
+
+.u128 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u129 {
+    position:absolute;
+    left:403px;
+    top:1897px;
+    width:125px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u113_normal.png');
+}
+
+.u130_container {
+    position:absolute;
+    left:498px;
+    top:1897px;
+    width:16px;
+    height:16px;
+}
+
+#u130_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u131 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u132 {
+    position:absolute;
+    left:623px;
+    top:1982px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u133_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u116_normal.png');
+}
+
+.u133_container {
+    position:absolute;
+    left:588px;
+    top:1897px;
+    width:16px;
+    height:16px;
+}
+
+#u133_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u134 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u135_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u118_normal.png');
+}
+
+.u135_container {
+    position:absolute;
+    left:628px;
+    top:1897px;
+    width:16px;
+    height:16px;
+}
+
+#u135_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u136 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u137_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u120_normal.png');
+}
+
+.u137_container {
+    position:absolute;
+    left:602px;
+    top:1982px;
+    width:16px;
+    height:16px;
+}
+
+#u137_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u138 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u139 {
+    position:absolute;
+    left:608px;
+    top:1897px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140 {
+    position:absolute;
+    left:649px;
+    top:1897px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u141_line {
+    background-image: url('../选股（6页，1个2重复）_files/u141_line.png');
+}
+
+.u141_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:310px;
+    height:3px;
+}
+
+.u141 {
+    position:absolute;
+    left:368px;
+    top:1992px;
+    width:310px;
+    height:10px;
+    
+}
+
+.u142 {
+    position:absolute;
+    left:403px;
+    top:2028px;
+    width:265px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u143 {
+    position:absolute;
+    left:398px;
+    top:1588px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u144_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u110_normal.png');
+}
+
+.u144_container {
+    position:absolute;
+    left:368px;
+    top:2012px;
+    width:25px;
+    height:25px;
+}
+
+#u144_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:25px;
+    height:25px;
+}
+
+.u145 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146 {
+    position:absolute;
+    left:403px;
+    top:2012px;
+    width:125px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u147_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u113_normal.png');
+}
+
+.u147_container {
+    position:absolute;
+    left:498px;
+    top:2012px;
+    width:16px;
+    height:16px;
+}
+
+#u147_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u148 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u149 {
+    position:absolute;
+    left:618px;
+    top:1588px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u116_normal.png');
+}
+
+.u150_container {
+    position:absolute;
+    left:588px;
+    top:2012px;
+    width:16px;
+    height:16px;
+}
+
+#u150_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u151 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u118_normal.png');
+}
+
+.u152_container {
+    position:absolute;
+    left:628px;
+    top:2012px;
+    width:16px;
+    height:16px;
+}
+
+#u152_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u153 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u154_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u120_normal.png');
+}
+
+.u154_container {
+    position:absolute;
+    left:597px;
+    top:1588px;
+    width:16px;
+    height:16px;
+}
+
+#u154_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u155 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u156 {
+    position:absolute;
+    left:608px;
+    top:2012px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u157 {
+    position:absolute;
+    left:649px;
+    top:2012px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u158_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u158_normal.png');
+}
+
+.u158_container {
+    position:absolute;
+    left:403px;
+    top:1857px;
+    width:75px;
+    height:26px;
+}
+
+#u158_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:32px;
+}
+
+.u159 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u160_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u158_normal.png');
+}
+
+.u160_container {
+    position:absolute;
+    left:488px;
+    top:1857px;
+    width:75px;
+    height:26px;
+}
+
+#u160_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:32px;
+}
+
+.u161 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u162_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u158_normal.png');
+}
+
+.u162_container {
+    position:absolute;
+    left:573px;
+    top:1857px;
+    width:75px;
+    height:26px;
+}
+
+#u162_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:32px;
+}
+
+.u163 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u164 {
+    position:absolute;
+    left:403px;
+    top:1856px;
+    width:75px;
+    height:27px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u165 {
+    position:absolute;
+    left:488px;
+    top:1857px;
+    width:75px;
+    height:27px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u166 {
+    position:absolute;
+    left:573px;
+    top:1857px;
+    width:75px;
+    height:27px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u167 {
+    position:absolute;
+    left:360px;
+    top:1679px;
+    width:320px;
+    height:46px;
+    overflow:hidden;
+}
+
+#pd1u167 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:46px;
+    
+}
+
+.u168_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u1_normal.png');
+}
+
+.u168_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:319px;
+    height:45px;
+}
+
+#u168_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:325px;
+    height:51px;
+}
+
+.u169 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:315px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u170_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u3_normal.png');
+}
+
+.u170_container {
+    position:absolute;
+    left:197px;
+    top:12px;
+    width:21px;
+    height:20px;
+}
+
+#u170_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:21px;
+    height:20px;
+}
+
+.u171 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:17px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u167 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:46px;
+    
+}
+
+.u172_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u1_normal.png');
+}
+
+.u172_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:319px;
+    height:45px;
+}
+
+#u172_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:325px;
+    height:51px;
+}
+
+.u173 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:315px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u174_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u7_normal.png');
+}
+
+.u174_container {
+    position:absolute;
+    left:360px;
+    top:1679px;
+    width:320px;
+    height:45px;
+}
+
+#u174_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:45px;
+}
+
+.u175 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u176 {
+    position:absolute;
+    left:360px;
+    top:1688px;
+    width:320px;
+    height:25px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u177_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u10_normal.png');
+}
+
+.u177_container {
+    position:absolute;
+    left:642px;
+    top:1690px;
+    width:23px;
+    height:23px;
+}
+
+#u177_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:23px;
+    height:23px;
+}
+
+.u178 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u179_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u12_normal.png');
+}
+
+.u179_container {
+    position:absolute;
+    left:360px;
+    top:1659px;
+    width:320px;
+    height:20px;
+}
+
+#u179_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:20px;
+}
+
+.u180 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u181 {
+    position:absolute;
+    left:366px;
+    top:673px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u182 {
+    position:absolute;
+    left:366px;
+    top:693px;
+    width:205px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u183_line {
+    background-image: url('../选股（6页，1个2重复）_files/u183_line.png');
+}
+
+.u183_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u183 {
+    position:absolute;
+    left:360px;
+    top:709px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u184 {
+    position:absolute;
+    left:366px;
+    top:719px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u185 {
+    position:absolute;
+    left:366px;
+    top:739px;
+    width:205px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u186_line {
+    background-image: url('../选股（6页，1个2重复）_files/u186_line.png');
+}
+
+.u186_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u186 {
+    position:absolute;
+    left:360px;
+    top:755px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u187 {
+    position:absolute;
+    left:366px;
+    top:765px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u188 {
+    position:absolute;
+    left:366px;
+    top:785px;
+    width:205px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u189_line {
+    background-image: url('../选股（6页，1个2重复）_files/u189_line.png');
+}
+
+.u189_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u189 {
+    position:absolute;
+    left:360px;
+    top:801px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u190 {
+    position:absolute;
+    left:366px;
+    top:811px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u191 {
+    position:absolute;
+    left:366px;
+    top:831px;
+    width:205px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u192_line {
+    background-image: url('../选股（6页，1个2重复）_files/u192_line.png');
+}
+
+.u192_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u192 {
+    position:absolute;
+    left:360px;
+    top:847px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u193 {
+    position:absolute;
+    left:366px;
+    top:857px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u194 {
+    position:absolute;
+    left:366px;
+    top:877px;
+    width:205px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u195_line {
+    background-image: url('../选股（6页，1个2重复）_files/u195_line.png');
+}
+
+.u195_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u195 {
+    position:absolute;
+    left:360px;
+    top:1013px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u196 {
+    position:absolute;
+    left:526px;
+    top:693px;
+    width:150px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u197 {
+    position:absolute;
+    left:526px;
+    top:739px;
+    width:150px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u198 {
+    position:absolute;
+    left:526px;
+    top:785px;
+    width:150px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u199 {
+    position:absolute;
+    left:526px;
+    top:831px;
+    width:150px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u200 {
+    position:absolute;
+    left:526px;
+    top:877px;
+    width:150px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u201 {
+    position:absolute;
+    left:360px;
+    top:598px;
+    width:320px;
+    height:46px;
+    overflow:hidden;
+}
+
+#pd1u201 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:46px;
+    
+}
+
+.u202_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u1_normal.png');
+}
+
+.u202_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:319px;
+    height:45px;
+}
+
+#u202_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:325px;
+    height:51px;
+}
+
+.u203 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:315px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u204_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u3_normal.png');
+}
+
+.u204_container {
+    position:absolute;
+    left:197px;
+    top:12px;
+    width:21px;
+    height:20px;
+}
+
+#u204_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:21px;
+    height:20px;
+}
+
+.u205 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:17px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u201 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:46px;
+    
+}
+
+.u206_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u1_normal.png');
+}
+
+.u206_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:319px;
+    height:45px;
+}
+
+#u206_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:325px;
+    height:51px;
+}
+
+.u207 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:315px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u208_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u7_normal.png');
+}
+
+.u208_container {
+    position:absolute;
+    left:360px;
+    top:598px;
+    width:320px;
+    height:45px;
+}
+
+#u208_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:45px;
+}
+
+.u209 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u210 {
+    position:absolute;
+    left:360px;
+    top:607px;
+    width:320px;
+    height:25px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u211_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u10_normal.png');
+}
+
+.u211_container {
+    position:absolute;
+    left:642px;
+    top:609px;
+    width:23px;
+    height:23px;
+}
+
+#u211_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:23px;
+    height:23px;
+}
+
+.u212 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u213_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u12_normal.png');
+}
+
+.u213_container {
+    position:absolute;
+    left:360px;
+    top:578px;
+    width:320px;
+    height:20px;
+}
+
+#u213_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:20px;
+}
+
+.u214 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u215_selected {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_selected.png');
+}
+
+.u215_normal {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_normal.png');
+}
+
+.u215_container {
+    position:absolute;
+    left:360px;
+    top:488px;
+    width:82px;
+    height:42px;
+}
+
+#u215_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:48px;
+}
+
+.u216 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u217_selected {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_selected.png');
+}
+
+.u217_normal {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_normal.png');
+}
+
+.u217_container {
+    position:absolute;
+    left:442px;
+    top:488px;
+    width:82px;
+    height:42px;
+}
+
+#u217_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:48px;
+}
+
+.u218 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u219_selected {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_selected.png');
+}
+
+.u219_normal {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_normal.png');
+}
+
+.u219_container {
+    position:absolute;
+    left:524px;
+    top:488px;
+    width:82px;
+    height:42px;
+}
+
+#u219_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:48px;
+}
+
+.u220 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u221_selected {
+    background-image: url('../选股（6页，1个2重复）_files/4_u221_selected.png');
+}
+
+.u221_normal {
+    background-image: url('../选股（6页，1个2重复）_files/4_u221_normal.png');
+}
+
+.u221_container {
+    position:absolute;
+    left:606px;
+    top:488px;
+    width:74px;
+    height:42px;
+}
+
+#u221_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:48px;
+}
+
+.u222 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u223_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u223_normal.png');
+}
+
+.u223_container {
+    position:absolute;
+    left:117px;
+    top:462px;
+    width:82px;
+    height:68px;
+}
+
+#u223_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:74px;
+}
+
+.u224 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:78px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u225_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u223_normal.png');
+}
+
+.u225_container {
+    position:absolute;
+    left:199px;
+    top:462px;
+    width:82px;
+    height:68px;
+}
+
+#u225_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:74px;
+}
+
+.u226 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:78px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u227_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u227_normal.png');
+}
+
+.u227_container {
+    position:absolute;
+    left:281px;
+    top:462px;
+    width:74px;
+    height:68px;
+}
+
+#u227_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:74px;
+}
+
+.u228 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:70px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u229_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u223_normal.png');
+}
+
+.u229_container {
+    position:absolute;
+    left:35px;
+    top:462px;
+    width:82px;
+    height:68px;
+}
+
+#u229_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:74px;
+}
+
+.u230 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:78px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u231_selected {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_selected.png');
+}
+
+.u231_normal {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_normal.png');
+}
+
+.u231_container {
+    position:absolute;
+    left:360px;
+    top:1542px;
+    width:82px;
+    height:42px;
+}
+
+#u231_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:48px;
+}
+
+.u232 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u233_selected {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_selected.png');
+}
+
+.u233_normal {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_normal.png');
+}
+
+.u233_container {
+    position:absolute;
+    left:442px;
+    top:1542px;
+    width:82px;
+    height:42px;
+}
+
+#u233_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:48px;
+}
+
+.u234 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u235_selected {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_selected.png');
+}
+
+.u235_normal {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_normal.png');
+}
+
+.u235_container {
+    position:absolute;
+    left:524px;
+    top:1542px;
+    width:82px;
+    height:42px;
+}
+
+#u235_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:48px;
+}
+
+.u236 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u237_selected {
+    background-image: url('../选股（6页，1个2重复）_files/4_u221_selected.png');
+}
+
+.u237_normal {
+    background-image: url('../选股（6页，1个2重复）_files/4_u221_normal.png');
+}
+
+.u237_container {
+    position:absolute;
+    left:606px;
+    top:1542px;
+    width:74px;
+    height:42px;
+}
+
+#u237_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:48px;
+}
+
+.u238 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u239_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u223_normal.png');
+}
+
+.u239_container {
+    position:absolute;
+    left:122px;
+    top:1499px;
+    width:82px;
+    height:68px;
+}
+
+#u239_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:74px;
+}
+
+.u240 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:78px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u241_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u223_normal.png');
+}
+
+.u241_container {
+    position:absolute;
+    left:204px;
+    top:1499px;
+    width:82px;
+    height:68px;
+}
+
+#u241_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:74px;
+}
+
+.u242 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:78px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u243_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u227_normal.png');
+}
+
+.u243_container {
+    position:absolute;
+    left:286px;
+    top:1499px;
+    width:74px;
+    height:68px;
+}
+
+#u243_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:74px;
+}
+
+.u244 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:70px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u245_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u223_normal.png');
+}
+
+.u245_container {
+    position:absolute;
+    left:40px;
+    top:1499px;
+    width:82px;
+    height:68px;
+}
+
+#u245_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:74px;
+}
+
+.u246 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:78px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u247_selected {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_selected.png');
+}
+
+.u247_normal {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_normal.png');
+}
+
+.u247_container {
+    position:absolute;
+    left:360px;
+    top:2096px;
+    width:82px;
+    height:42px;
+}
+
+#u247_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:48px;
+}
+
+.u248 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u249_selected {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_selected.png');
+}
+
+.u249_normal {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_normal.png');
+}
+
+.u249_container {
+    position:absolute;
+    left:442px;
+    top:2096px;
+    width:82px;
+    height:42px;
+}
+
+#u249_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:48px;
+}
+
+.u250 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u251_selected {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_selected.png');
+}
+
+.u251_normal {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_normal.png');
+}
+
+.u251_container {
+    position:absolute;
+    left:524px;
+    top:2096px;
+    width:82px;
+    height:42px;
+}
+
+#u251_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:48px;
+}
+
+.u252 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u253_selected {
+    background-image: url('../选股（6页，1个2重复）_files/4_u221_selected.png');
+}
+
+.u253_normal {
+    background-image: url('../选股（6页，1个2重复）_files/4_u221_normal.png');
+}
+
+.u253_container {
+    position:absolute;
+    left:606px;
+    top:2096px;
+    width:74px;
+    height:42px;
+}
+
+#u253_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:48px;
+}
+
+.u254 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u255_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u223_normal.png');
+}
+
+.u255_container {
+    position:absolute;
+    left:112px;
+    top:2070px;
+    width:82px;
+    height:68px;
+}
+
+#u255_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:74px;
+}
+
+.u256 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:78px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u257_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u223_normal.png');
+}
+
+.u257_container {
+    position:absolute;
+    left:194px;
+    top:2070px;
+    width:82px;
+    height:68px;
+}
+
+#u257_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:74px;
+}
+
+.u258 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:78px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u259_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u227_normal.png');
+}
+
+.u259_container {
+    position:absolute;
+    left:276px;
+    top:2070px;
+    width:74px;
+    height:68px;
+}
+
+#u259_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:74px;
+}
+
+.u260 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:70px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u261_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u223_normal.png');
+}
+
+.u261_container {
+    position:absolute;
+    left:30px;
+    top:2070px;
+    width:82px;
+    height:68px;
+}
+
+#u261_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:74px;
+}
+
+.u262 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:78px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u263_selected {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_selected.png');
+}
+
+.u263_normal {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_normal.png');
+}
+
+.u263_container {
+    position:absolute;
+    left:360px;
+    top:1015px;
+    width:82px;
+    height:42px;
+}
+
+#u263_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:48px;
+}
+
+.u264 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u265_selected {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_selected.png');
+}
+
+.u265_normal {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_normal.png');
+}
+
+.u265_container {
+    position:absolute;
+    left:442px;
+    top:1015px;
+    width:82px;
+    height:42px;
+}
+
+#u265_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:48px;
+}
+
+.u266 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u267_selected {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_selected.png');
+}
+
+.u267_normal {
+    background-image: url('../选股（6页，1个2重复）_files/自选_u215_normal.png');
+}
+
+.u267_container {
+    position:absolute;
+    left:524px;
+    top:1015px;
+    width:82px;
+    height:42px;
+}
+
+#u267_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:48px;
+}
+
+.u268 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u269_selected {
+    background-image: url('../选股（6页，1个2重复）_files/4_u221_selected.png');
+}
+
+.u269_normal {
+    background-image: url('../选股（6页，1个2重复）_files/4_u221_normal.png');
+}
+
+.u269_container {
+    position:absolute;
+    left:606px;
+    top:1015px;
+    width:74px;
+    height:42px;
+}
+
+#u269_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:48px;
+}
+
+.u270 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u271_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u223_normal.png');
+}
+
+.u271_container {
+    position:absolute;
+    left:112px;
+    top:989px;
+    width:82px;
+    height:68px;
+}
+
+#u271_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:74px;
+}
+
+.u272 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:78px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u273_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u223_normal.png');
+}
+
+.u273_container {
+    position:absolute;
+    left:194px;
+    top:989px;
+    width:82px;
+    height:68px;
+}
+
+#u273_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:74px;
+}
+
+.u274 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:78px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u275_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u227_normal.png');
+}
+
+.u275_container {
+    position:absolute;
+    left:276px;
+    top:989px;
+    width:74px;
+    height:68px;
+}
+
+#u275_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:74px;
+}
+
+.u276 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:70px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u277_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u223_normal.png');
+}
+
+.u277_container {
+    position:absolute;
+    left:30px;
+    top:989px;
+    width:82px;
+    height:68px;
+}
+
+#u277_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:74px;
+}
+
+.u278 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:78px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u279 {
+    position:absolute;
+    left:145px;
+    top:264px;
+    width:210px;
+    height:160px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u280 {
+    position:absolute;
+    left:690px;
+    top:220px;
+    width:210px;
+    height:288px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u281_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u281_normal.png');
+}
+
+.u281_container {
+    position:absolute;
+    left:432px;
+    top:50px;
+    width:183px;
+    height:20px;
+}
+
+#u281_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:26px;
+}
+
+.u282 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:179px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u283_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u283_normal.png');
+}
+
+.u283_container {
+    position:absolute;
+    left:455px;
+    top:70px;
+    width:130px;
+    height:45px;
+}
+
+#u283_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:51px;
+}
+
+.u284 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u285_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u285_normal.png');
+}
+
+.u285_container {
+    position:absolute;
+    left:625px;
+    top:70px;
+    width:55px;
+    height:45px;
+}
+
+#u285_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:51px;
+}
+
+.u286 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:51px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u287_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u287_normal.png');
+}
+
+.u287_container {
+    position:absolute;
+    left:158px;
+    top:384px;
+    width:183px;
+    height:40px;
+}
+
+#u287_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:46px;
+}
+
+.u288 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:179px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u289_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u289_normal.png');
+}
+
+.u289_container {
+    position:absolute;
+    left:520px;
+    top:172px;
+    width:155px;
+    height:25px;
+}
+
+#u289_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:161px;
+    height:31px;
+}
+
+.u290 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:151px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u291_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u289_normal.png');
+}
+
+.u291_container {
+    position:absolute;
+    left:362px;
+    top:172px;
+    width:155px;
+    height:25px;
+}
+
+#u291_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:161px;
+    height:31px;
+}
+
+.u292 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:151px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u293_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u281_normal.png');
+}
+
+.u293_container {
+    position:absolute;
+    left:148px;
+    top:116px;
+    width:183px;
+    height:20px;
+}
+
+#u293_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:26px;
+}
+
+.u294 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:179px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u295_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u281_normal.png');
+}
+
+.u295_container {
+    position:absolute;
+    left:690px;
+    top:82px;
+    width:183px;
+    height:20px;
+}
+
+#u295_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:26px;
+}
+
+.u296 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:179px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u297_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u297_normal.png');
+}
+
+.u297_container {
+    position:absolute;
+    left:690px;
+    top:116px;
+    width:220px;
+    height:20px;
+}
+
+#u297_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:26px;
+}
+
+.u298 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u299_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u299_normal.png');
+}
+
+.u299_container {
+    position:absolute;
+    left:148px;
+    top:152px;
+    width:183px;
+    height:88px;
+}
+
+#u299_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:94px;
+}
+
+.u300 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:179px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u301_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u297_normal.png');
+}
+
+.u301_container {
+    position:absolute;
+    left:690px;
+    top:150px;
+    width:220px;
+    height:20px;
+}
+
+#u301_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:26px;
+}
+
+.u302 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u303_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u281_normal.png');
+}
+
+.u303_container {
+    position:absolute;
+    left:431px;
+    top:1105px;
+    width:183px;
+    height:20px;
+}
+
+#u303_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:26px;
+}
+
+.u304 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:179px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u305_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u283_normal.png');
+}
+
+.u305_container {
+    position:absolute;
+    left:453px;
+    top:1125px;
+    width:130px;
+    height:45px;
+}
+
+#u305_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:51px;
+}
+
+.u306 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u307_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u285_normal.png');
+}
+
+.u307_container {
+    position:absolute;
+    left:623px;
+    top:1125px;
+    width:55px;
+    height:45px;
+}
+
+#u307_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:51px;
+}
+
+.u308 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:51px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u309_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u281_normal.png');
+}
+
+.u309_container {
+    position:absolute;
+    left:158px;
+    top:1169px;
+    width:183px;
+    height:20px;
+}
+
+#u309_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:26px;
+}
+
+.u310 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:179px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u311_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u281_normal.png');
+}
+
+.u311_container {
+    position:absolute;
+    left:689px;
+    top:1137px;
+    width:183px;
+    height:20px;
+}
+
+#u311_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:26px;
+}
+
+.u312 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:179px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u313_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u297_normal.png');
+}
+
+.u313_container {
+    position:absolute;
+    left:690px;
+    top:1174px;
+    width:220px;
+    height:20px;
+}
+
+#u313_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:26px;
+}
+
+.u314 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u315_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u315_normal.png');
+}
+
+.u315_container {
+    position:absolute;
+    left:690px;
+    top:1197px;
+    width:220px;
+    height:66px;
+}
+
+#u315_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:72px;
+}
+
+.u316 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:216px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u317_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u317_normal.png');
+}
+
+.u317_container {
+    position:absolute;
+    left:85px;
+    top:1352px;
+    width:265px;
+    height:92px;
+}
+
+#u317_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:271px;
+    height:98px;
+}
+
+.u318 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:261px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u319_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u319_normal.png');
+}
+
+.u319_container {
+    position:absolute;
+    left:690px;
+    top:1273px;
+    width:220px;
+    height:35px;
+}
+
+#u319_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:41px;
+}
+
+.u320 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u321_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u321_normal.png');
+}
+
+.u321_container {
+    position:absolute;
+    left:360px;
+    top:1246px;
+    width:320px;
+    height:39px;
+}
+
+#u321_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:45px;
+}
+
+.u322 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u323_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u281_normal.png');
+}
+
+.u323_container {
+    position:absolute;
+    left:432px;
+    top:1657px;
+    width:183px;
+    height:20px;
+}
+
+#u323_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:26px;
+}
+
+.u324 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:179px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u325_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u283_normal.png');
+}
+
+.u325_container {
+    position:absolute;
+    left:454px;
+    top:1677px;
+    width:130px;
+    height:45px;
+}
+
+#u325_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:51px;
+}
+
+.u326 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u327_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u285_normal.png');
+}
+
+.u327_container {
+    position:absolute;
+    left:624px;
+    top:1677px;
+    width:55px;
+    height:45px;
+}
+
+#u327_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:51px;
+}
+
+.u328 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:51px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u329_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u281_normal.png');
+}
+
+.u329_container {
+    position:absolute;
+    left:160px;
+    top:1721px;
+    width:183px;
+    height:20px;
+}
+
+#u329_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:26px;
+}
+
+.u330 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:179px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u331_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u281_normal.png');
+}
+
+.u331_container {
+    position:absolute;
+    left:692px;
+    top:1691px;
+    width:183px;
+    height:20px;
+}
+
+#u331_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:26px;
+}
+
+.u332 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:179px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u333_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u297_normal.png');
+}
+
+.u333_container {
+    position:absolute;
+    left:692px;
+    top:1727px;
+    width:220px;
+    height:20px;
+}
+
+#u333_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:26px;
+}
+
+.u334 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u335_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u315_normal.png');
+}
+
+.u335_container {
+    position:absolute;
+    left:692px;
+    top:1749px;
+    width:220px;
+    height:66px;
+}
+
+#u335_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:72px;
+}
+
+.u336 {
+    position:absolute;
+    left:2px;
+    top:1px;
+    width:216px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u337_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u317_normal.png');
+}
+
+.u337_container {
+    position:absolute;
+    left:78px;
+    top:1936px;
+    width:265px;
+    height:92px;
+}
+
+#u337_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:271px;
+    height:98px;
+}
+
+.u338 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:261px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u339_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u319_normal.png');
+}
+
+.u339_container {
+    position:absolute;
+    left:692px;
+    top:1825px;
+    width:220px;
+    height:35px;
+}
+
+#u339_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:41px;
+}
+
+.u340 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u341_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u341_normal.png');
+}
+
+.u341_container {
+    position:absolute;
+    left:599px;
+    top:1824px;
+    width:37px;
+    height:33px;
+}
+
+#u341_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:43px;
+    height:39px;
+}
+
+.u342 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:33px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u343_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u319_normal.png');
+}
+
+.u343_container {
+    position:absolute;
+    left:692px;
+    top:1870px;
+    width:220px;
+    height:35px;
+}
+
+#u343_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:41px;
+}
+
+.u344 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u345_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u319_normal.png');
+}
+
+.u345_container {
+    position:absolute;
+    left:692px;
+    top:1915px;
+    width:220px;
+    height:35px;
+}
+
+#u345_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:41px;
+}
+
+.u346 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u347_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u7_normal.png');
+}
+
+.u347_container {
+    position:absolute;
+    left:960px;
+    top:1935px;
+    width:320px;
+    height:45px;
+}
+
+#u347_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:45px;
+}
+
+.u348 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u349 {
+    position:absolute;
+    left:960px;
+    top:1944px;
+    width:320px;
+    height:25px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u350_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u12_normal.png');
+}
+
+.u350_container {
+    position:absolute;
+    left:960px;
+    top:1915px;
+    width:320px;
+    height:20px;
+}
+
+#u350_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:20px;
+}
+
+.u351 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u352_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u352_normal.png');
+}
+
+.u352_container {
+    position:absolute;
+    left:960px;
+    top:1941px;
+    width:65px;
+    height:32px;
+}
+
+#u352_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:65px;
+    height:32px;
+}
+
+.u353 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u354 {
+    position:absolute;
+    left:970px;
+    top:1949px;
+    width:50px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u355_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u355_normal.png');
+}
+
+.u355_container {
+    position:absolute;
+    left:1202px;
+    top:1941px;
+    width:73px;
+    height:32px;
+}
+
+#u355_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:73px;
+    height:32px;
+}
+
+.u356 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:69px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u357 {
+    position:absolute;
+    left:1202px;
+    top:1949px;
+    width:70px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u358 {
+    position:absolute;
+    left:960px;
+    top:1979px;
+    width:320px;
+    height:371px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u359_selected {
+    background-image: url('../选股（6页，1个2重复）_files/2_u359_selected.png');
+}
+
+.u359_normal {
+    background-image: url('../选股（6页，1个2重复）_files/2_u359_normal.png');
+}
+
+.u359_container {
+    position:absolute;
+    left:960px;
+    top:2177px;
+    width:110px;
+    height:42px;
+}
+
+#u359_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:48px;
+}
+
+.u360 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u361_selected {
+    background-image: url('../选股（6页，1个2重复）_files/2_u359_selected.png');
+}
+
+.u361_normal {
+    background-image: url('../选股（6页，1个2重复）_files/2_u359_normal.png');
+}
+
+.u361_container {
+    position:absolute;
+    left:1070px;
+    top:2177px;
+    width:110px;
+    height:42px;
+}
+
+#u361_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:48px;
+}
+
+.u362 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u363_selected {
+    background-image: url('../选股（6页，1个2重复）_files/4_u363_selected.png');
+}
+
+.u363_normal {
+    background-image: url('../选股（6页，1个2重复）_files/4_u363_normal.png');
+}
+
+.u363_container {
+    position:absolute;
+    left:1181px;
+    top:2177px;
+    width:99px;
+    height:42px;
+}
+
+#u363_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:48px;
+}
+
+.u364 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u365 {
+    position:absolute;
+    left:970px;
+    top:1988px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u366_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u7_normal.png');
+}
+
+.u366_container {
+    position:absolute;
+    left:960px;
+    top:1386px;
+    width:320px;
+    height:45px;
+}
+
+#u366_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:45px;
+}
+
+.u367 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u368 {
+    position:absolute;
+    left:960px;
+    top:1395px;
+    width:320px;
+    height:25px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u369_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u12_normal.png');
+}
+
+.u369_container {
+    position:absolute;
+    left:960px;
+    top:1366px;
+    width:320px;
+    height:20px;
+}
+
+#u369_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:20px;
+}
+
+.u370 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u371_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u352_normal.png');
+}
+
+.u371_container {
+    position:absolute;
+    left:960px;
+    top:1392px;
+    width:65px;
+    height:32px;
+}
+
+#u371_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:65px;
+    height:32px;
+}
+
+.u372 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u373 {
+    position:absolute;
+    left:970px;
+    top:1400px;
+    width:50px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u374_selected {
+    background-image: url('../选股（6页，1个2重复）_files/4_u374_selected.png');
+}
+
+.u374_normal {
+    background-image: url('../选股（6页，1个2重复）_files/4_u374_normal.png');
+}
+
+.u374_container {
+    position:absolute;
+    left:1202px;
+    top:1798px;
+    width:78px;
+    height:42px;
+}
+
+#u374_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:84px;
+    height:48px;
+}
+
+.u375 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:74px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u376 {
+    position:absolute;
+    left:970px;
+    top:1441px;
+    width:125px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u377_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u113_normal.png');
+}
+
+.u377_container {
+    position:absolute;
+    left:1065px;
+    top:1441px;
+    width:16px;
+    height:16px;
+}
+
+#u377_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u378 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u379 {
+    position:absolute;
+    left:1190px;
+    top:1441px;
+    width:90px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u380 {
+    position:absolute;
+    left:970px;
+    top:1462px;
+    width:302px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u381 {
+    position:absolute;
+    left:970px;
+    top:1529px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u382_line {
+    background-image: url('../选股（6页，1个2重复）_files/u382_line.png');
+}
+
+.u382_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:310px;
+    height:3px;
+}
+
+.u382 {
+    position:absolute;
+    left:960px;
+    top:1545px;
+    width:310px;
+    height:10px;
+    
+}
+
+.u383 {
+    position:absolute;
+    left:970px;
+    top:1555px;
+    width:125px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u384_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u113_normal.png');
+}
+
+.u384_container {
+    position:absolute;
+    left:1065px;
+    top:1555px;
+    width:16px;
+    height:16px;
+}
+
+#u384_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u385 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u386 {
+    position:absolute;
+    left:1190px;
+    top:1555px;
+    width:90px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u387 {
+    position:absolute;
+    left:970px;
+    top:1576px;
+    width:302px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u388 {
+    position:absolute;
+    left:970px;
+    top:1643px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u389_line {
+    background-image: url('../选股（6页，1个2重复）_files/u389_line.png');
+}
+
+.u389_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:310px;
+    height:3px;
+}
+
+.u389 {
+    position:absolute;
+    left:960px;
+    top:1659px;
+    width:310px;
+    height:10px;
+    
+}
+
+.u390 {
+    position:absolute;
+    left:970px;
+    top:1674px;
+    width:125px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u391_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u113_normal.png');
+}
+
+.u391_container {
+    position:absolute;
+    left:1065px;
+    top:1674px;
+    width:16px;
+    height:16px;
+}
+
+#u391_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u392 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u393 {
+    position:absolute;
+    left:1190px;
+    top:1674px;
+    width:90px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u394 {
+    position:absolute;
+    left:970px;
+    top:1695px;
+    width:302px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u395 {
+    position:absolute;
+    left:970px;
+    top:1762px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u396_line {
+    background-image: url('../选股（6页，1个2重复）_files/u396_line.png');
+}
+
+.u396_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:310px;
+    height:3px;
+}
+
+.u396 {
+    position:absolute;
+    left:960px;
+    top:1778px;
+    width:310px;
+    height:10px;
+    
+}
+
+.u397 {
+    position:absolute;
+    left:960px;
+    top:1798px;
+    width:242px;
+    height:42px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#999999;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u398_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u7_normal.png');
+}
+
+.u398_container {
+    position:absolute;
+    left:1345px;
+    top:1386px;
+    width:320px;
+    height:45px;
+}
+
+#u398_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:45px;
+}
+
+.u399 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u400 {
+    position:absolute;
+    left:1345px;
+    top:1395px;
+    width:320px;
+    height:25px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u401_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u12_normal.png');
+}
+
+.u401_container {
+    position:absolute;
+    left:1345px;
+    top:1366px;
+    width:320px;
+    height:20px;
+}
+
+#u401_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:20px;
+}
+
+.u402 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u403_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u352_normal.png');
+}
+
+.u403_container {
+    position:absolute;
+    left:1345px;
+    top:1392px;
+    width:65px;
+    height:32px;
+}
+
+#u403_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:65px;
+    height:32px;
+}
+
+.u404 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u405 {
+    position:absolute;
+    left:1355px;
+    top:1400px;
+    width:50px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u406_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u355_normal.png');
+}
+
+.u406_container {
+    position:absolute;
+    left:1587px;
+    top:1392px;
+    width:73px;
+    height:32px;
+}
+
+#u406_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:73px;
+    height:32px;
+}
+
+.u407 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:69px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u408 {
+    position:absolute;
+    left:1587px;
+    top:1400px;
+    width:70px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u409 {
+    position:absolute;
+    left:1345px;
+    top:1430px;
+    width:320px;
+    height:371px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u410 {
+    position:absolute;
+    left:1355px;
+    top:1439px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u411c0 {
+    background-image: url('../选股（6页，1个2重复）_files/u411c0.png');
+}
+
+.u411c0 {
+    position:absolute;
+    left:901px;
+    top:1827px;
+    width:59px;
+    height:20px;
+}
+
+.u411c1 {
+    background-image: url('../选股（6页，1个2重复）_files/u411c1.png');
+}
+
+.u411c1 {
+    position:absolute;
+    left:940px;
+    top:1397px;
+    width:20px;
+    height:450px;
+}
+
+.u411c2 {
+    background-image: url('../选股（6页，1个2重复）_files/u411c2.png');
+}
+
+.u411c2 {
+    position:absolute;
+    left:940px;
+    top:1397px;
+    width:19px;
+    height:20px;
+}
+
+.u412 {
+    position:absolute;
+    left:-5px;
+    top:-203px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u413c0 {
+    background-image: url('../选股（6页，1个2重复）_files/u413c0.png');
+}
+
+.u413c0 {
+    position:absolute;
+    left:1276px;
+    top:1807px;
+    width:69px;
+    height:20px;
+}
+
+.u413c1 {
+    background-image: url('../选股（6页，1个2重复）_files/u413c1.png');
+}
+
+.u413c1 {
+    position:absolute;
+    left:1325px;
+    top:1397px;
+    width:20px;
+    height:430px;
+}
+
+.u413c2 {
+    background-image: url('../选股（6页，1个2重复）_files/u413c2.png');
+}
+
+.u413c2 {
+    position:absolute;
+    left:1325px;
+    top:1397px;
+    width:19px;
+    height:20px;
+}
+
+.u414 {
+    position:absolute;
+    left:5px;
+    top:-188px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u415c0 {
+    background-image: url('../选股（6页，1个2重复）_files/u415c0.png');
+}
+
+.u415c0 {
+    position:absolute;
+    left:911px;
+    top:1877px;
+    width:214px;
+    height:20px;
+}
+
+.u415c1 {
+    background-image: url('../选股（6页，1个2重复）_files/u415c1.png');
+}
+
+.u415c1 {
+    position:absolute;
+    left:1105px;
+    top:1877px;
+    width:20px;
+    height:34px;
+}
+
+.u416 {
+    position:absolute;
+    left:60px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u417_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u417_normal.png');
+}
+
+.u417_container {
+    position:absolute;
+    left:960px;
+    top:1797px;
+    width:320px;
+    height:45px;
+}
+
+#u417_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:51px;
+}
+
+.u418 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u419_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u419_normal.png');
+}
+
+.u419_container {
+    position:absolute;
+    left:960px;
+    top:1385px;
+    width:65px;
+    height:45px;
+}
+
+#u419_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:51px;
+}
+
+.u420 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u421_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u419_normal.png');
+}
+
+.u421_container {
+    position:absolute;
+    left:1345px;
+    top:1385px;
+    width:65px;
+    height:45px;
+}
+
+#u421_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:51px;
+}
+
+.u422 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u423_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u423_normal.png');
+}
+
+.u423_container {
+    position:absolute;
+    left:1587px;
+    top:1387px;
+    width:78px;
+    height:45px;
+}
+
+#u423_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:84px;
+    height:51px;
+}
+
+.u424 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:74px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u425_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u423_normal.png');
+}
+
+.u425_container {
+    position:absolute;
+    left:1200px;
+    top:1936px;
+    width:78px;
+    height:45px;
+}
+
+#u425_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:84px;
+    height:51px;
+}
+
+.u426 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:74px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u427_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u423_normal.png');
+}
+
+.u427_container {
+    position:absolute;
+    left:960px;
+    top:1935px;
+    width:78px;
+    height:45px;
+}
+
+#u427_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:84px;
+    height:51px;
+}
+
+.u428 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:74px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u429_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u429_normal.png');
+}
+
+.u429_container {
+    position:absolute;
+    left:579px;
+    top:1749px;
+    width:33px;
+    height:31px;
+}
+
+#u429_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:39px;
+    height:37px;
+}
+
+.u430 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:29px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u431_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u431_normal.png');
+}
+
+.u431_container {
+    position:absolute;
+    left:622px;
+    top:1749px;
+    width:38px;
+    height:31px;
+}
+
+#u431_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:44px;
+    height:37px;
+}
+
+.u432 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:34px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u433c0 {
+    background-image: url('../选股（6页，1个2重复）_files/u433c0.png');
+}
+
+.u433c0 {
+    position:absolute;
+    left:668px;
+    top:1837px;
+    width:26px;
+    height:20px;
+}
+
+.u433c1 {
+    background-image: url('../选股（6页，1个2重复）_files/u433c1.png');
+}
+
+.u433c1 {
+    position:absolute;
+    left:668px;
+    top:1836px;
+    width:20px;
+    height:21px;
+}
+
+.u433c2 {
+    background-image: url('../选股（6页，1个2重复）_files/u433c2.png');
+}
+
+.u433c2 {
+    position:absolute;
+    left:642px;
+    top:1836px;
+    width:46px;
+    height:20px;
+}
+
+.u433c3 {
+    background-image: url('../选股（6页，1个2重复）_files/u433c3.png');
+}
+
+.u433c3 {
+    position:absolute;
+    left:642px;
+    top:1780px;
+    width:20px;
+    height:76px;
+}
+
+.u433c4 {
+    background-image: url('../选股（6页，1个2重复）_files/u433c4.png');
+}
+
+.u433c4 {
+    position:absolute;
+    left:585px;
+    top:1780px;
+    width:77px;
+    height:20px;
+}
+
+.u433c5 {
+    background-image: url('../选股（6页，1个2重复）_files/u433c5.png');
+}
+
+.u433c5 {
+    position:absolute;
+    left:585px;
+    top:1775px;
+    width:20px;
+    height:25px;
+}
+
+.u434 {
+    position:absolute;
+    left:-88px;
+    top:-52px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u435c0 {
+    background-image: url('../选股（6页，1个2重复）_files/u435c0.png');
+}
+
+.u435c0 {
+    position:absolute;
+    left:668px;
+    top:1882px;
+    width:31px;
+    height:20px;
+}
+
+.u435c1 {
+    background-image: url('../选股（6页，1个2重复）_files/u435c1.png');
+}
+
+.u435c1 {
+    position:absolute;
+    left:668px;
+    top:1754px;
+    width:20px;
+    height:148px;
+}
+
+.u435c2 {
+    background-image: url('../选股（6页，1个2重复）_files/u435c2.png');
+}
+
+.u435c2 {
+    position:absolute;
+    left:651px;
+    top:1754px;
+    width:37px;
+    height:20px;
+}
+
+.u436 {
+    position:absolute;
+    left:-67px;
+    top:-75px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u437c0 {
+    background-image: url('../选股（6页，1个2重复）_files/u437c0.png');
+}
+
+.u437c0 {
+    position:absolute;
+    left:600px;
+    top:1922px;
+    width:94px;
+    height:20px;
+}
+
+.u437c1 {
+    background-image: url('../选股（6页，1个2重复）_files/u437c1.png');
+}
+
+.u437c1 {
+    position:absolute;
+    left:600px;
+    top:1855px;
+    width:20px;
+    height:87px;
+}
+
+.u438 {
+    position:absolute;
+    left:-126px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u439_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u319_normal.png');
+}
+
+.u439_container {
+    position:absolute;
+    left:123px;
+    top:1871px;
+    width:220px;
+    height:35px;
+}
+
+#u439_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:41px;
+}
+
+.u440 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u441c0 {
+    background-image: url('../选股（6页，1个2重复）_files/u441c0.png');
+}
+
+.u441c0 {
+    position:absolute;
+    left:341px;
+    top:1859px;
+    width:69px;
+    height:20px;
+}
+
+.u442 {
+    position:absolute;
+    left:-22px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u443 {
+    position:absolute;
+    left:1675px;
+    top:1486px;
+    width:120px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u444_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u444_normal.png');
+}
+
+.u444_container {
+    position:absolute;
+    left:1602px;
+    top:1545px;
+    width:55px;
+    height:20px;
+}
+
+#u444_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:26px;
+}
+
+.u445 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:51px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u446_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u446_normal.png');
+}
+
+.u446_container {
+    position:absolute;
+    left:1675px;
+    top:1536px;
+    width:183px;
+    height:35px;
+}
+
+#u446_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:41px;
+}
+
+.u447 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:179px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u448_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u446_normal.png');
+}
+
+.u448_container {
+    position:absolute;
+    left:1682px;
+    top:1391px;
+    width:183px;
+    height:35px;
+}
+
+#u448_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:41px;
+}
+
+.u449 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:179px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u450_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u446_normal.png');
+}
+
+.u450_container {
+    position:absolute;
+    left:1308px;
+    top:1329px;
+    width:183px;
+    height:35px;
+}
+
+#u450_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:41px;
+}
+
+.u451 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:179px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u452_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u446_normal.png');
+}
+
+.u452_container {
+    position:absolute;
+    left:912px;
+    top:1329px;
+    width:183px;
+    height:35px;
+}
+
+#u452_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:41px;
+}
+
+.u453 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:179px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u454_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u454_normal.png');
+}
+
+.u454_container {
+    position:absolute;
+    left:1087px;
+    top:1778px;
+    width:213px;
+    height:20px;
+}
+
+#u454_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:219px;
+    height:26px;
+}
+
+.u455 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:209px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u456_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u456_normal.png');
+}
+
+.u456_container {
+    position:absolute;
+    left:1115px;
+    top:1326px;
+    width:175px;
+    height:38px;
+}
+
+#u456_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:181px;
+    height:44px;
+}
+
+.u457 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:171px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u458_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u446_normal.png');
+}
+
+.u458_container {
+    position:absolute;
+    left:1675px;
+    top:1617px;
+    width:183px;
+    height:35px;
+}
+
+#u458_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:41px;
+}
+
+.u459 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:179px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u460_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u281_normal.png');
+}
+
+.u460_container {
+    position:absolute;
+    left:432px;
+    top:578px;
+    width:183px;
+    height:20px;
+}
+
+#u460_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:26px;
+}
+
+.u461 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:179px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u462_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u283_normal.png');
+}
+
+.u462_container {
+    position:absolute;
+    left:454px;
+    top:598px;
+    width:130px;
+    height:45px;
+}
+
+#u462_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:51px;
+}
+
+.u463 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u464_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u285_normal.png');
+}
+
+.u464_container {
+    position:absolute;
+    left:624px;
+    top:598px;
+    width:55px;
+    height:45px;
+}
+
+#u464_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:51px;
+}
+
+.u465 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:51px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u466_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u281_normal.png');
+}
+
+.u466_container {
+    position:absolute;
+    left:160px;
+    top:642px;
+    width:183px;
+    height:20px;
+}
+
+#u466_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:26px;
+}
+
+.u467 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:179px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u468_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u281_normal.png');
+}
+
+.u468_container {
+    position:absolute;
+    left:692px;
+    top:612px;
+    width:183px;
+    height:20px;
+}
+
+#u468_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:26px;
+}
+
+.u469 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:179px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u470_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u297_normal.png');
+}
+
+.u470_container {
+    position:absolute;
+    left:692px;
+    top:642px;
+    width:220px;
+    height:20px;
+}
+
+#u470_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:26px;
+}
+
+.u471 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u472_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u315_normal.png');
+}
+
+.u472_container {
+    position:absolute;
+    left:690px;
+    top:668px;
+    width:220px;
+    height:66px;
+}
+
+#u472_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:72px;
+}
+
+.u473 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:216px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u474_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u317_normal.png');
+}
+
+.u474_container {
+    position:absolute;
+    left:85px;
+    top:831px;
+    width:265px;
+    height:92px;
+}
+
+#u474_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:271px;
+    height:98px;
+}
+
+.u475 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:261px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u476_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u319_normal.png');
+}
+
+.u476_container {
+    position:absolute;
+    left:690px;
+    top:789px;
+    width:220px;
+    height:35px;
+}
+
+#u476_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:41px;
+}
+
+.u477 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u478_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u321_normal.png');
+}
+
+.u478_container {
+    position:absolute;
+    left:360px;
+    top:670px;
+    width:320px;
+    height:39px;
+}
+
+#u478_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:45px;
+}
+
+.u479 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u480 {
+    position:absolute;
+    left:145px;
+    top:1248px;
+    width:210px;
+    height:112px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u481 {
+    position:absolute;
+    left:160px;
+    top:1765px;
+    width:200px;
+    height:96px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u482 {
+    position:absolute;
+    left:150px;
+    top:713px;
+    width:200px;
+    height:96px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u483_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u483_normal.png');
+}
+
+.u483_container {
+    position:absolute;
+    left:960px;
+    top:2219px;
+    width:320px;
+    height:215px;
+}
+
+#u483_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:215px;
+}
+
+.u484 {
+    position:absolute;
+    left:2px;
+    top:100px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u485_selected {
+    background-image: url('../选股（6页，1个2重复）_files/2_u359_selected.png');
+}
+
+.u485_normal {
+    background-image: url('../选股（6页，1个2重复）_files/2_u359_normal.png');
+}
+
+.u485_container {
+    position:absolute;
+    left:1345px;
+    top:1583px;
+    width:110px;
+    height:42px;
+}
+
+#u485_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:48px;
+}
+
+.u486 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u487_selected {
+    background-image: url('../选股（6页，1个2重复）_files/2_u359_selected.png');
+}
+
+.u487_normal {
+    background-image: url('../选股（6页，1个2重复）_files/2_u359_normal.png');
+}
+
+.u487_container {
+    position:absolute;
+    left:1455px;
+    top:1583px;
+    width:110px;
+    height:42px;
+}
+
+#u487_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:48px;
+}
+
+.u488 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u489_selected {
+    background-image: url('../选股（6页，1个2重复）_files/4_u363_selected.png');
+}
+
+.u489_normal {
+    background-image: url('../选股（6页，1个2重复）_files/4_u363_normal.png');
+}
+
+.u489_container {
+    position:absolute;
+    left:1566px;
+    top:1583px;
+    width:99px;
+    height:42px;
+}
+
+#u489_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:48px;
+}
+
+.u490 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u491_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u483_normal.png');
+}
+
+.u491_container {
+    position:absolute;
+    left:1345px;
+    top:1625px;
+    width:320px;
+    height:215px;
+}
+
+#u491_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:215px;
+}
+
+.u492 {
+    position:absolute;
+    left:2px;
+    top:100px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u493_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u493_normal.png');
+}
+
+.u493_container {
+    position:absolute;
+    left:1566px;
+    top:1583px;
+    width:99px;
+    height:42px;
+}
+
+#u493_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:48px;
+}
+
+.u494 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u495 {
+    position:absolute;
+    left:1675px;
+    top:1591px;
+    width:200px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u496_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u446_normal.png');
+}
+
+.u496_container {
+    position:absolute;
+    left:1289px;
+    top:2172px;
+    width:183px;
+    height:35px;
+}
+
+#u496_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:41px;
+}
+
+.u497 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:179px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u498_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u493_normal.png');
+}
+
+.u498_container {
+    position:absolute;
+    left:1180px;
+    top:2177px;
+    width:99px;
+    height:42px;
+}
+
+#u498_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:48px;
+}
+
+.u499 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u500 {
+    position:absolute;
+    left:1289px;
+    top:2146px;
+    width:200px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u501_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u444_normal.png');
+}
+
+.u501_container {
+    position:absolute;
+    left:1216px;
+    top:2151px;
+    width:55px;
+    height:20px;
+}
+
+#u501_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:26px;
+}
+
+.u502 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:51px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u503_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u446_normal.png');
+}
+
+.u503_container {
+    position:absolute;
+    left:1289px;
+    top:2103px;
+    width:183px;
+    height:35px;
+}
+
+#u503_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:41px;
+}
+
+.u504 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:179px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u505_normal {
+    background-image: url('../选股（6页，1个2重复）_files/u505_normal.png');
+}
+
+.u505_container {
+    position:absolute;
+    left:1201px;
+    top:2151px;
+    width:78px;
+    height:20px;
+}
+
+#u505_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:84px;
+    height:26px;
+}
+
+.u506 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:74px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u507_selected {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_selected.png');
+}
+
+.u507_normal {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_normal.png');
+}
+
+.u507_container {
+    position:absolute;
+    left:540px;
+    top:114px;
+    width:70px;
+    height:25px;
+}
+
+#u507_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:31px;
+}
+
+.u508 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u509_selected {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_selected.png');
+}
+
+.u509_normal {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_normal.png');
+}
+
+.u509_container {
+    position:absolute;
+    left:610px;
+    top:114px;
+    width:70px;
+    height:25px;
+}
+
+#u509_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:31px;
+}
+
+.u510 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u511_selected {
+    background-image: url('../选股（6页，1个2重复）_files/点评1_u64_selected.png');
+}
+
+.u511_normal {
+    background-image: url('../选股（6页，1个2重复）_files/点评1_u64_normal.png');
+}
+
+.u511_container {
+    position:absolute;
+    left:360px;
+    top:1170px;
+    width:110px;
+    height:25px;
+}
+
+#u511_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:31px;
+}
+
+.u512 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u513_selected {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_selected.png');
+}
+
+.u513_normal {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_normal.png');
+}
+
+.u513_container {
+    position:absolute;
+    left:470px;
+    top:1170px;
+    width:70px;
+    height:25px;
+}
+
+#u513_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:31px;
+}
+
+.u514 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u515_selected {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_selected.png');
+}
+
+.u515_normal {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_normal.png');
+}
+
+.u515_container {
+    position:absolute;
+    left:540px;
+    top:1170px;
+    width:70px;
+    height:25px;
+}
+
+#u515_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:31px;
+}
+
+.u516 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u517_selected {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_selected.png');
+}
+
+.u517_normal {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_normal.png');
+}
+
+.u517_container {
+    position:absolute;
+    left:610px;
+    top:1170px;
+    width:70px;
+    height:25px;
+}
+
+#u517_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:31px;
+}
+
+.u518 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u519_selected {
+    background-image: url('../选股（6页，1个2重复）_files/点评1_u64_selected.png');
+}
+
+.u519_normal {
+    background-image: url('../选股（6页，1个2重复）_files/点评1_u64_normal.png');
+}
+
+.u519_container {
+    position:absolute;
+    left:360px;
+    top:1724px;
+    width:110px;
+    height:25px;
+}
+
+#u519_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:31px;
+}
+
+.u520 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u521_selected {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_selected.png');
+}
+
+.u521_normal {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_normal.png');
+}
+
+.u521_container {
+    position:absolute;
+    left:470px;
+    top:1724px;
+    width:70px;
+    height:25px;
+}
+
+#u521_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:31px;
+}
+
+.u522 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u523_selected {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_selected.png');
+}
+
+.u523_normal {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_normal.png');
+}
+
+.u523_container {
+    position:absolute;
+    left:540px;
+    top:1724px;
+    width:70px;
+    height:25px;
+}
+
+#u523_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:31px;
+}
+
+.u524 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u525_selected {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_selected.png');
+}
+
+.u525_normal {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_normal.png');
+}
+
+.u525_container {
+    position:absolute;
+    left:610px;
+    top:1724px;
+    width:70px;
+    height:25px;
+}
+
+#u525_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:31px;
+}
+
+.u526 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u527_selected {
+    background-image: url('../选股（6页，1个2重复）_files/点评1_u64_selected.png');
+}
+
+.u527_normal {
+    background-image: url('../选股（6页，1个2重复）_files/点评1_u64_normal.png');
+}
+
+.u527_container {
+    position:absolute;
+    left:360px;
+    top:643px;
+    width:110px;
+    height:25px;
+}
+
+#u527_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:31px;
+}
+
+.u528 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u529_selected {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_selected.png');
+}
+
+.u529_normal {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_normal.png');
+}
+
+.u529_container {
+    position:absolute;
+    left:470px;
+    top:643px;
+    width:70px;
+    height:25px;
+}
+
+#u529_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:31px;
+}
+
+.u530 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u531_selected {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_selected.png');
+}
+
+.u531_normal {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_normal.png');
+}
+
+.u531_container {
+    position:absolute;
+    left:540px;
+    top:643px;
+    width:70px;
+    height:25px;
+}
+
+#u531_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:31px;
+}
+
+.u532 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u533_selected {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_selected.png');
+}
+
+.u533_normal {
+    background-image: url('../选股（6页，1个2重复）_files/3_u66_normal.png');
+}
+
+.u533_container {
+    position:absolute;
+    left:610px;
+    top:643px;
+    width:70px;
+    height:25px;
+}
+
+#u533_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:31px;
+}
+
+.u534 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u535 {
+    position:absolute;
+    left:366px;
+    top:901px;
+    width:275px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u536 {
+    position:absolute;
+    left:366px;
+    top:921px;
+    width:205px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u537_line {
+    background-image: url('../选股（6页，1个2重复）_files/u537_line.png');
+}
+
+.u537_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u537 {
+    position:absolute;
+    left:360px;
+    top:937px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u538 {
+    position:absolute;
+    left:526px;
+    top:921px;
+    width:150px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u539_line {
+    background-image: url('../选股（6页，1个2重复）_files/u539_line.png');
+}
+
+.u539_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:320px;
+    height:3px;
+}
+
+.u539 {
+    position:absolute;
+    left:360px;
+    top:891px;
+    width:320px;
+    height:10px;
+    
+}
+
+.u540 {
+    position:absolute;
+    left:365px;
+    top:1225px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u541 {
+    position:absolute;
+    left:440px;
+    top:1225px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u542 {
+    position:absolute;
+    left:365px;
+    top:1317px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u543 {
+    position:absolute;
+    left:440px;
+    top:1317px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u544 {
+    position:absolute;
+    left:365px;
+    top:1361px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u545 {
+    position:absolute;
+    left:440px;
+    top:1361px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u546 {
+    position:absolute;
+    left:365px;
+    top:1409px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u547 {
+    position:absolute;
+    left:440px;
+    top:1409px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u548 {
+    position:absolute;
+    left:365px;
+    top:1455px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u549 {
+    position:absolute;
+    left:440px;
+    top:1455px;
+    width:65px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

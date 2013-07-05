@@ -1,0 +1,5694 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:100px;
+    top:247px;
+    width:100px;
+    height:35px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:360px;
+    top:172px;
+    width:100px;
+    height:35px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:360px;
+    top:332px;
+    width:100px;
+    height:35px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:495px;
+    top:272px;
+    width:100px;
+    height:35px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:495px;
+    top:332px;
+    width:100px;
+    height:35px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:630px;
+    top:392px;
+    width:100px;
+    height:35px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:630px;
+    top:297px;
+    width:100px;
+    height:35px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../财经客户端_files/u14_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:495px;
+    top:127px;
+    width:100px;
+    height:35px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:630px;
+    top:103px;
+    width:100px;
+    height:35px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:630px;
+    top:147px;
+    width:100px;
+    height:35px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../财经客户端_files/u14_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:495px;
+    top:217px;
+    width:100px;
+    height:35px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../财经客户端_files/u14_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:495px;
+    top:172px;
+    width:100px;
+    height:35px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:495px;
+    top:392px;
+    width:100px;
+    height:35px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:100px;
+    top:637px;
+    width:100px;
+    height:35px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:235px;
+    top:522px;
+    width:100px;
+    height:35px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:360px;
+    top:477px;
+    width:100px;
+    height:35px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:360px;
+    top:522px;
+    width:100px;
+    height:35px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:360px;
+    top:567px;
+    width:100px;
+    height:35px;
+}
+
+#u34_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:235px;
+    top:732px;
+    width:100px;
+    height:35px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:360px;
+    top:687px;
+    width:100px;
+    height:35px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:360px;
+    top:733px;
+    width:100px;
+    height:35px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:360px;
+    top:777px;
+    width:100px;
+    height:35px;
+}
+
+#u42_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:495px;
+    top:687px;
+    width:100px;
+    height:35px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:495px;
+    top:777px;
+    width:100px;
+    height:35px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:100px;
+    top:967px;
+    width:100px;
+    height:35px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:235px;
+    top:922px;
+    width:100px;
+    height:35px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:235px;
+    top:967px;
+    width:100px;
+    height:35px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:235px;
+    top:1012px;
+    width:100px;
+    height:35px;
+}
+
+#u54_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u56_container {
+    position:absolute;
+    left:235px;
+    top:1057px;
+    width:100px;
+    height:35px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:235px;
+    top:1102px;
+    width:100px;
+    height:35px;
+}
+
+#u58_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u60_container {
+    position:absolute;
+    left:360px;
+    top:930px;
+    width:100px;
+    height:35px;
+}
+
+#u60_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u61 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:845px;
+    top:270px;
+    width:100px;
+    height:35px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:845px;
+    top:324px;
+    width:100px;
+    height:35px;
+}
+
+#u64_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:845px;
+    top:380px;
+    width:100px;
+    height:35px;
+}
+
+#u66_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u67 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u68_container {
+    position:absolute;
+    left:845px;
+    top:434px;
+    width:100px;
+    height:35px;
+}
+
+#u68_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u69 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:845px;
+    top:214px;
+    width:100px;
+    height:35px;
+}
+
+#u70_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u71 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:845px;
+    top:160px;
+    width:100px;
+    height:35px;
+}
+
+#u72_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74c0 {
+    background-image: url('../财经客户端_files/u74c0.png');
+}
+
+.u74c0 {
+    position:absolute;
+    left:196px;
+    top:644px;
+    width:39px;
+    height:20px;
+}
+
+.u74c1 {
+    background-image: url('../财经客户端_files/u74c1.png');
+}
+
+.u74c1 {
+    position:absolute;
+    left:215px;
+    top:530px;
+    width:20px;
+    height:134px;
+}
+
+.u74c2 {
+    background-image: url('../财经客户端_files/u74c2.png');
+}
+
+.u74c2 {
+    position:absolute;
+    left:215px;
+    top:530px;
+    width:24px;
+    height:20px;
+}
+
+.u75 {
+    position:absolute;
+    left:-25px;
+    top:-58px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76c0 {
+    background-image: url('../财经客户端_files/u76c0.png');
+}
+
+.u76c0 {
+    position:absolute;
+    left:196px;
+    top:644px;
+    width:39px;
+    height:20px;
+}
+
+.u76c1 {
+    background-image: url('../财经客户端_files/u76c1.png');
+}
+
+.u76c1 {
+    position:absolute;
+    left:215px;
+    top:644px;
+    width:20px;
+    height:116px;
+}
+
+.u76c2 {
+    background-image: url('../财经客户端_files/u76c2.png');
+}
+
+.u76c2 {
+    position:absolute;
+    left:215px;
+    top:740px;
+    width:24px;
+    height:20px;
+}
+
+.u77 {
+    position:absolute;
+    left:-25px;
+    top:32px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78c0 {
+    background-image: url('../财经客户端_files/u78c0.png');
+}
+
+.u78c0 {
+    position:absolute;
+    left:450px;
+    top:180px;
+    width:20px;
+    height:19px;
+}
+
+.u78c1 {
+    background-image: url('../财经客户端_files/u78c1.png');
+}
+
+.u78c1 {
+    position:absolute;
+    left:450px;
+    top:180px;
+    width:49px;
+    height:20px;
+}
+
+.u79 {
+    position:absolute;
+    left:-35px;
+    top:-13px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80c0 {
+    background-image: url('../财经客户端_files/u80c0.png');
+}
+
+.u80c0 {
+    position:absolute;
+    left:460px;
+    top:280px;
+    width:20px;
+    height:74px;
+}
+
+.u80c1 {
+    background-image: url('../财经客户端_files/u80c1.png');
+}
+
+.u80c1 {
+    position:absolute;
+    left:460px;
+    top:280px;
+    width:39px;
+    height:20px;
+}
+
+.u81 {
+    position:absolute;
+    left:-50px;
+    top:-50px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82c0 {
+    background-image: url('../财经客户端_files/u82c0.png');
+}
+
+.u82c0 {
+    position:absolute;
+    left:456px;
+    top:340px;
+    width:49px;
+    height:20px;
+}
+
+.u83 {
+    position:absolute;
+    left:-32px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84c0 {
+    background-image: url('../财经客户端_files/u84c0.png');
+}
+
+.u84c0 {
+    position:absolute;
+    left:460px;
+    top:346px;
+    width:20px;
+    height:74px;
+}
+
+.u84c1 {
+    background-image: url('../财经客户端_files/u84c1.png');
+}
+
+.u84c1 {
+    position:absolute;
+    left:460px;
+    top:400px;
+    width:39px;
+    height:20px;
+}
+
+.u85 {
+    position:absolute;
+    left:-50px;
+    top:34px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86c0 {
+    background-image: url('../财经客户端_files/u86c0.png');
+}
+
+.u86c0 {
+    position:absolute;
+    left:331px;
+    top:530px;
+    width:29px;
+    height:20px;
+}
+
+.u86c1 {
+    background-image: url('../财经客户端_files/u86c1.png');
+}
+
+.u86c1 {
+    position:absolute;
+    left:340px;
+    top:307px;
+    width:20px;
+    height:243px;
+}
+
+.u86c2 {
+    background-image: url('../财经客户端_files/u86c2.png');
+}
+
+.u86c2 {
+    position:absolute;
+    left:340px;
+    top:307px;
+    width:290px;
+    height:20px;
+}
+
+.u86c3 {
+    background-image: url('../财经客户端_files/u86c3.png');
+}
+
+.u86c3 {
+    position:absolute;
+    left:610px;
+    top:304px;
+    width:20px;
+    height:23px;
+}
+
+.u86c4 {
+    background-image: url('../财经客户端_files/u86c4.png');
+}
+
+.u86c4 {
+    position:absolute;
+    left:610px;
+    top:304px;
+    width:24px;
+    height:20px;
+}
+
+.u87 {
+    position:absolute;
+    left:-12px;
+    top:-231px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88c0 {
+    background-image: url('../财经客户端_files/u88c0.png');
+}
+
+.u88c0 {
+    position:absolute;
+    left:331px;
+    top:530px;
+    width:29px;
+    height:20px;
+}
+
+.u88c1 {
+    background-image: url('../财经客户端_files/u88c1.png');
+}
+
+.u88c1 {
+    position:absolute;
+    left:340px;
+    top:484px;
+    width:20px;
+    height:66px;
+}
+
+.u88c2 {
+    background-image: url('../财经客户端_files/u88c2.png');
+}
+
+.u88c2 {
+    position:absolute;
+    left:340px;
+    top:484px;
+    width:24px;
+    height:20px;
+}
+
+.u89 {
+    position:absolute;
+    left:-35px;
+    top:-28px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90c0 {
+    background-image: url('../财经客户端_files/u90c0.png');
+}
+
+.u90c0 {
+    position:absolute;
+    left:331px;
+    top:530px;
+    width:39px;
+    height:20px;
+}
+
+.u91 {
+    position:absolute;
+    left:-38px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92c0 {
+    background-image: url('../财经客户端_files/u92c0.png');
+}
+
+.u92c0 {
+    position:absolute;
+    left:331px;
+    top:530px;
+    width:29px;
+    height:20px;
+}
+
+.u92c1 {
+    background-image: url('../财经客户端_files/u92c1.png');
+}
+
+.u92c1 {
+    position:absolute;
+    left:340px;
+    top:530px;
+    width:20px;
+    height:64px;
+}
+
+.u92c2 {
+    background-image: url('../财经客户端_files/u92c2.png');
+}
+
+.u92c2 {
+    position:absolute;
+    left:340px;
+    top:574px;
+    width:24px;
+    height:20px;
+}
+
+.u93 {
+    position:absolute;
+    left:-35px;
+    top:12px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94c0 {
+    background-image: url('../财经客户端_files/u94c0.png');
+}
+
+.u94c0 {
+    position:absolute;
+    left:331px;
+    top:740px;
+    width:29px;
+    height:20px;
+}
+
+.u94c1 {
+    background-image: url('../财经客户端_files/u94c1.png');
+}
+
+.u94c1 {
+    position:absolute;
+    left:340px;
+    top:694px;
+    width:20px;
+    height:66px;
+}
+
+.u94c2 {
+    background-image: url('../财经客户端_files/u94c2.png');
+}
+
+.u94c2 {
+    position:absolute;
+    left:340px;
+    top:694px;
+    width:24px;
+    height:20px;
+}
+
+.u95 {
+    position:absolute;
+    left:-35px;
+    top:-28px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96c0 {
+    background-image: url('../财经客户端_files/u96c0.png');
+}
+
+.u96c0 {
+    position:absolute;
+    left:331px;
+    top:740px;
+    width:39px;
+    height:20px;
+}
+
+.u97 {
+    position:absolute;
+    left:-38px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98c0 {
+    background-image: url('../财经客户端_files/u98c0.png');
+}
+
+.u98c0 {
+    position:absolute;
+    left:331px;
+    top:740px;
+    width:29px;
+    height:20px;
+}
+
+.u98c1 {
+    background-image: url('../财经客户端_files/u98c1.png');
+}
+
+.u98c1 {
+    position:absolute;
+    left:340px;
+    top:740px;
+    width:20px;
+    height:64px;
+}
+
+.u98c2 {
+    background-image: url('../财经客户端_files/u98c2.png');
+}
+
+.u98c2 {
+    position:absolute;
+    left:340px;
+    top:784px;
+    width:24px;
+    height:20px;
+}
+
+.u99 {
+    position:absolute;
+    left:-35px;
+    top:12px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100c0 {
+    background-image: url('../财经客户端_files/u100c0.png');
+}
+
+.u100c0 {
+    position:absolute;
+    left:456px;
+    top:694px;
+    width:49px;
+    height:20px;
+}
+
+.u101 {
+    position:absolute;
+    left:-32px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102c0 {
+    background-image: url('../财经客户端_files/u102c0.png');
+}
+
+.u102c0 {
+    position:absolute;
+    left:456px;
+    top:784px;
+    width:49px;
+    height:20px;
+}
+
+.u103 {
+    position:absolute;
+    left:-32px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104c0 {
+    background-image: url('../财经客户端_files/u104c0.png');
+}
+
+.u104c0 {
+    position:absolute;
+    left:196px;
+    top:974px;
+    width:39px;
+    height:20px;
+}
+
+.u104c1 {
+    background-image: url('../财经客户端_files/u104c1.png');
+}
+
+.u104c1 {
+    position:absolute;
+    left:215px;
+    top:930px;
+    width:20px;
+    height:64px;
+}
+
+.u104c2 {
+    background-image: url('../财经客户端_files/u104c2.png');
+}
+
+.u104c2 {
+    position:absolute;
+    left:215px;
+    top:930px;
+    width:24px;
+    height:20px;
+}
+
+.u105 {
+    position:absolute;
+    left:-25px;
+    top:-22px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106c0 {
+    background-image: url('../财经客户端_files/u106c0.png');
+}
+
+.u106c0 {
+    position:absolute;
+    left:196px;
+    top:974px;
+    width:49px;
+    height:20px;
+}
+
+.u107 {
+    position:absolute;
+    left:-32px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108c0 {
+    background-image: url('../财经客户端_files/u108c0.png');
+}
+
+.u108c0 {
+    position:absolute;
+    left:196px;
+    top:974px;
+    width:39px;
+    height:20px;
+}
+
+.u108c1 {
+    background-image: url('../财经客户端_files/u108c1.png');
+}
+
+.u108c1 {
+    position:absolute;
+    left:215px;
+    top:974px;
+    width:20px;
+    height:66px;
+}
+
+.u108c2 {
+    background-image: url('../财经客户端_files/u108c2.png');
+}
+
+.u108c2 {
+    position:absolute;
+    left:215px;
+    top:1020px;
+    width:24px;
+    height:20px;
+}
+
+.u109 {
+    position:absolute;
+    left:-25px;
+    top:8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110c0 {
+    background-image: url('../财经客户端_files/u110c0.png');
+}
+
+.u110c0 {
+    position:absolute;
+    left:196px;
+    top:974px;
+    width:39px;
+    height:20px;
+}
+
+.u110c1 {
+    background-image: url('../财经客户端_files/u110c1.png');
+}
+
+.u110c1 {
+    position:absolute;
+    left:215px;
+    top:974px;
+    width:20px;
+    height:110px;
+}
+
+.u110c2 {
+    background-image: url('../财经客户端_files/u110c2.png');
+}
+
+.u110c2 {
+    position:absolute;
+    left:215px;
+    top:1064px;
+    width:24px;
+    height:20px;
+}
+
+.u111 {
+    position:absolute;
+    left:-25px;
+    top:30px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112c0 {
+    background-image: url('../财经客户端_files/u112c0.png');
+}
+
+.u112c0 {
+    position:absolute;
+    left:196px;
+    top:974px;
+    width:39px;
+    height:20px;
+}
+
+.u112c1 {
+    background-image: url('../财经客户端_files/u112c1.png');
+}
+
+.u112c1 {
+    position:absolute;
+    left:215px;
+    top:974px;
+    width:20px;
+    height:156px;
+}
+
+.u112c2 {
+    background-image: url('../财经客户端_files/u112c2.png');
+}
+
+.u112c2 {
+    position:absolute;
+    left:215px;
+    top:1110px;
+    width:24px;
+    height:20px;
+}
+
+.u113 {
+    position:absolute;
+    left:-25px;
+    top:52px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u114c0 {
+    background-image: url('../财经客户端_files/u114c0.png');
+}
+
+.u114c0 {
+    position:absolute;
+    left:331px;
+    top:930px;
+    width:29px;
+    height:20px;
+}
+
+.u114c1 {
+    background-image: url('../财经客户端_files/u114c1.png');
+}
+
+.u114c1 {
+    position:absolute;
+    left:340px;
+    top:930px;
+    width:20px;
+    height:28px;
+}
+
+.u114c2 {
+    background-image: url('../财经客户端_files/u114c2.png');
+}
+
+.u114c2 {
+    position:absolute;
+    left:340px;
+    top:938px;
+    width:24px;
+    height:20px;
+}
+
+.u115 {
+    position:absolute;
+    left:-35px;
+    top:-6px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116c0 {
+    background-image: url('../财经客户端_files/u116c0.png');
+}
+
+.u116c0 {
+    position:absolute;
+    left:331px;
+    top:974px;
+    width:29px;
+    height:20px;
+}
+
+.u116c1 {
+    background-image: url('../财经客户端_files/u116c1.png');
+}
+
+.u116c1 {
+    position:absolute;
+    left:340px;
+    top:938px;
+    width:20px;
+    height:56px;
+}
+
+.u116c2 {
+    background-image: url('../财经客户端_files/u116c2.png');
+}
+
+.u116c2 {
+    position:absolute;
+    left:340px;
+    top:938px;
+    width:24px;
+    height:20px;
+}
+
+.u117 {
+    position:absolute;
+    left:-35px;
+    top:-24px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118c0 {
+    background-image: url('../财经客户端_files/u118c0.png');
+}
+
+.u118c0 {
+    position:absolute;
+    left:331px;
+    top:1020px;
+    width:29px;
+    height:20px;
+}
+
+.u118c1 {
+    background-image: url('../财经客户端_files/u118c1.png');
+}
+
+.u118c1 {
+    position:absolute;
+    left:340px;
+    top:938px;
+    width:20px;
+    height:102px;
+}
+
+.u118c2 {
+    background-image: url('../财经客户端_files/u118c2.png');
+}
+
+.u118c2 {
+    position:absolute;
+    left:340px;
+    top:938px;
+    width:24px;
+    height:20px;
+}
+
+.u119 {
+    position:absolute;
+    left:-35px;
+    top:-46px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u120c0 {
+    background-image: url('../财经客户端_files/u120c0.png');
+}
+
+.u120c0 {
+    position:absolute;
+    left:591px;
+    top:280px;
+    width:39px;
+    height:20px;
+}
+
+.u120c1 {
+    background-image: url('../财经客户端_files/u120c1.png');
+}
+
+.u120c1 {
+    position:absolute;
+    left:610px;
+    top:280px;
+    width:20px;
+    height:44px;
+}
+
+.u120c2 {
+    background-image: url('../财经客户端_files/u120c2.png');
+}
+
+.u120c2 {
+    position:absolute;
+    left:610px;
+    top:304px;
+    width:24px;
+    height:20px;
+}
+
+.u121 {
+    position:absolute;
+    left:-25px;
+    top:-4px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122c0 {
+    background-image: url('../财经客户端_files/u122c0.png');
+}
+
+.u122c0 {
+    position:absolute;
+    left:591px;
+    top:340px;
+    width:39px;
+    height:20px;
+}
+
+.u122c1 {
+    background-image: url('../财经客户端_files/u122c1.png');
+}
+
+.u122c1 {
+    position:absolute;
+    left:610px;
+    top:304px;
+    width:20px;
+    height:56px;
+}
+
+.u122c2 {
+    background-image: url('../财经客户端_files/u122c2.png');
+}
+
+.u122c2 {
+    position:absolute;
+    left:610px;
+    top:304px;
+    width:24px;
+    height:20px;
+}
+
+.u123 {
+    position:absolute;
+    left:-25px;
+    top:-18px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124c0 {
+    background-image: url('../财经客户端_files/u124c0.png');
+}
+
+.u124c0 {
+    position:absolute;
+    left:591px;
+    top:400px;
+    width:39px;
+    height:20px;
+}
+
+.u124c1 {
+    background-image: url('../财经客户端_files/u124c1.png');
+}
+
+.u124c1 {
+    position:absolute;
+    left:610px;
+    top:304px;
+    width:20px;
+    height:116px;
+}
+
+.u124c2 {
+    background-image: url('../财经客户端_files/u124c2.png');
+}
+
+.u124c2 {
+    position:absolute;
+    left:610px;
+    top:304px;
+    width:24px;
+    height:20px;
+}
+
+.u125 {
+    position:absolute;
+    left:-25px;
+    top:-48px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126c0 {
+    background-image: url('../财经客户端_files/u126c0.png');
+}
+
+.u126c0 {
+    position:absolute;
+    left:591px;
+    top:340px;
+    width:99px;
+    height:20px;
+}
+
+.u126c1 {
+    background-image: url('../财经客户端_files/u126c1.png');
+}
+
+.u126c1 {
+    position:absolute;
+    left:670px;
+    top:328px;
+    width:20px;
+    height:32px;
+}
+
+.u127 {
+    position:absolute;
+    left:2px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128c0 {
+    background-image: url('../财经客户端_files/u128c0.png');
+}
+
+.u128c0 {
+    position:absolute;
+    left:591px;
+    top:400px;
+    width:49px;
+    height:20px;
+}
+
+.u129 {
+    position:absolute;
+    left:-32px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130c0 {
+    background-image: url('../财经客户端_files/u130c0.png');
+}
+
+.u130c0 {
+    position:absolute;
+    left:726px;
+    top:304px;
+    width:119px;
+    height:20px;
+}
+
+.u130c1 {
+    background-image: url('../财经客户端_files/u130c1.png');
+}
+
+.u130c1 {
+    position:absolute;
+    left:825px;
+    top:168px;
+    width:20px;
+    height:156px;
+}
+
+.u130c2 {
+    background-image: url('../财经客户端_files/u130c2.png');
+}
+
+.u130c2 {
+    position:absolute;
+    left:825px;
+    top:168px;
+    width:24px;
+    height:20px;
+}
+
+.u131 {
+    position:absolute;
+    left:55px;
+    top:-28px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u132c0 {
+    background-image: url('../财经客户端_files/u132c0.png');
+}
+
+.u132c0 {
+    position:absolute;
+    left:726px;
+    top:304px;
+    width:119px;
+    height:20px;
+}
+
+.u132c1 {
+    background-image: url('../财经客户端_files/u132c1.png');
+}
+
+.u132c1 {
+    position:absolute;
+    left:825px;
+    top:222px;
+    width:20px;
+    height:102px;
+}
+
+.u132c2 {
+    background-image: url('../财经客户端_files/u132c2.png');
+}
+
+.u132c2 {
+    position:absolute;
+    left:825px;
+    top:222px;
+    width:24px;
+    height:20px;
+}
+
+.u133 {
+    position:absolute;
+    left:48px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u134c0 {
+    background-image: url('../财经客户端_files/u134c0.png');
+}
+
+.u134c0 {
+    position:absolute;
+    left:726px;
+    top:304px;
+    width:119px;
+    height:20px;
+}
+
+.u134c1 {
+    background-image: url('../财经客户端_files/u134c1.png');
+}
+
+.u134c1 {
+    position:absolute;
+    left:825px;
+    top:278px;
+    width:20px;
+    height:46px;
+}
+
+.u134c2 {
+    background-image: url('../财经客户端_files/u134c2.png');
+}
+
+.u134c2 {
+    position:absolute;
+    left:825px;
+    top:278px;
+    width:24px;
+    height:20px;
+}
+
+.u135 {
+    position:absolute;
+    left:20px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136c0 {
+    background-image: url('../财经客户端_files/u136c0.png');
+}
+
+.u136c0 {
+    position:absolute;
+    left:726px;
+    top:304px;
+    width:119px;
+    height:20px;
+}
+
+.u136c1 {
+    background-image: url('../财经客户端_files/u136c1.png');
+}
+
+.u136c1 {
+    position:absolute;
+    left:825px;
+    top:304px;
+    width:20px;
+    height:48px;
+}
+
+.u136c2 {
+    background-image: url('../财经客户端_files/u136c2.png');
+}
+
+.u136c2 {
+    position:absolute;
+    left:825px;
+    top:332px;
+    width:24px;
+    height:20px;
+}
+
+.u137 {
+    position:absolute;
+    left:22px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u138c0 {
+    background-image: url('../财经客户端_files/u138c0.png');
+}
+
+.u138c0 {
+    position:absolute;
+    left:726px;
+    top:304px;
+    width:119px;
+    height:20px;
+}
+
+.u138c1 {
+    background-image: url('../财经客户端_files/u138c1.png');
+}
+
+.u138c1 {
+    position:absolute;
+    left:825px;
+    top:304px;
+    width:20px;
+    height:104px;
+}
+
+.u138c2 {
+    background-image: url('../财经客户端_files/u138c2.png');
+}
+
+.u138c2 {
+    position:absolute;
+    left:825px;
+    top:388px;
+    width:24px;
+    height:20px;
+}
+
+.u139 {
+    position:absolute;
+    left:50px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140c0 {
+    background-image: url('../财经客户端_files/u140c0.png');
+}
+
+.u140c0 {
+    position:absolute;
+    left:726px;
+    top:304px;
+    width:119px;
+    height:20px;
+}
+
+.u140c1 {
+    background-image: url('../财经客户端_files/u140c1.png');
+}
+
+.u140c1 {
+    position:absolute;
+    left:825px;
+    top:304px;
+    width:20px;
+    height:158px;
+}
+
+.u140c2 {
+    background-image: url('../财经客户端_files/u140c2.png');
+}
+
+.u140c2 {
+    position:absolute;
+    left:825px;
+    top:442px;
+    width:24px;
+    height:20px;
+}
+
+.u141 {
+    position:absolute;
+    left:55px;
+    top:14px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u142_container {
+    position:absolute;
+    left:630px;
+    top:195px;
+    width:100px;
+    height:35px;
+}
+
+#u142_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u143 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u144_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u144_container {
+    position:absolute;
+    left:630px;
+    top:240px;
+    width:100px;
+    height:35px;
+}
+
+#u144_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u145 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146c0 {
+    background-image: url('../财经客户端_files/u146c0.png');
+}
+
+.u146c0 {
+    position:absolute;
+    left:456px;
+    top:938px;
+    width:174px;
+    height:20px;
+}
+
+.u146c1 {
+    background-image: url('../财经客户端_files/u146c1.png');
+}
+
+.u146c1 {
+    position:absolute;
+    left:610px;
+    top:304px;
+    width:20px;
+    height:654px;
+}
+
+.u146c2 {
+    background-image: url('../财经客户端_files/u146c2.png');
+}
+
+.u146c2 {
+    position:absolute;
+    left:610px;
+    top:304px;
+    width:24px;
+    height:20px;
+}
+
+.u147 {
+    position:absolute;
+    left:110px;
+    top:-250px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u148_container {
+    position:absolute;
+    left:100px;
+    top:1295px;
+    width:100px;
+    height:35px;
+}
+
+#u148_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u149 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u150_container {
+    position:absolute;
+    left:235px;
+    top:1255px;
+    width:100px;
+    height:35px;
+}
+
+#u150_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u151 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u152_container {
+    position:absolute;
+    left:235px;
+    top:1305px;
+    width:100px;
+    height:35px;
+}
+
+#u152_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u153 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u154_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u154_container {
+    position:absolute;
+    left:235px;
+    top:1355px;
+    width:100px;
+    height:35px;
+}
+
+#u154_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u155 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u156_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u156_container {
+    position:absolute;
+    left:235px;
+    top:1405px;
+    width:100px;
+    height:35px;
+}
+
+#u156_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u157 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u158_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u158_container {
+    position:absolute;
+    left:235px;
+    top:1455px;
+    width:100px;
+    height:35px;
+}
+
+#u158_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u159 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u160_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u160_container {
+    position:absolute;
+    left:235px;
+    top:1505px;
+    width:100px;
+    height:35px;
+}
+
+#u160_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u161 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u162_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u162_container {
+    position:absolute;
+    left:235px;
+    top:1555px;
+    width:100px;
+    height:35px;
+}
+
+#u162_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u163 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u164_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u164_container {
+    position:absolute;
+    left:235px;
+    top:1605px;
+    width:100px;
+    height:35px;
+}
+
+#u164_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u165 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u166_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u166_container {
+    position:absolute;
+    left:235px;
+    top:1655px;
+    width:100px;
+    height:35px;
+}
+
+#u166_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u167 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u168_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u168_container {
+    position:absolute;
+    left:235px;
+    top:1705px;
+    width:100px;
+    height:35px;
+}
+
+#u168_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u169 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u170_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u170_container {
+    position:absolute;
+    left:235px;
+    top:1755px;
+    width:100px;
+    height:35px;
+}
+
+#u170_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u171 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u172c0 {
+    background-image: url('../财经客户端_files/u172c0.png');
+}
+
+.u172c0 {
+    position:absolute;
+    left:196px;
+    top:1302px;
+    width:39px;
+    height:20px;
+}
+
+.u172c1 {
+    background-image: url('../财经客户端_files/u172c1.png');
+}
+
+.u172c1 {
+    position:absolute;
+    left:215px;
+    top:1262px;
+    width:20px;
+    height:60px;
+}
+
+.u172c2 {
+    background-image: url('../财经客户端_files/u172c2.png');
+}
+
+.u172c2 {
+    position:absolute;
+    left:215px;
+    top:1262px;
+    width:24px;
+    height:20px;
+}
+
+.u173 {
+    position:absolute;
+    left:-25px;
+    top:-20px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u174c0 {
+    background-image: url('../财经客户端_files/u174c0.png');
+}
+
+.u174c0 {
+    position:absolute;
+    left:196px;
+    top:1302px;
+    width:39px;
+    height:20px;
+}
+
+.u174c1 {
+    background-image: url('../财经客户端_files/u174c1.png');
+}
+
+.u174c1 {
+    position:absolute;
+    left:215px;
+    top:1302px;
+    width:20px;
+    height:30px;
+}
+
+.u174c2 {
+    background-image: url('../财经客户端_files/u174c2.png');
+}
+
+.u174c2 {
+    position:absolute;
+    left:215px;
+    top:1312px;
+    width:24px;
+    height:20px;
+}
+
+.u175 {
+    position:absolute;
+    left:-28px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u176c0 {
+    background-image: url('../财经客户端_files/u176c0.png');
+}
+
+.u176c0 {
+    position:absolute;
+    left:196px;
+    top:1302px;
+    width:39px;
+    height:20px;
+}
+
+.u176c1 {
+    background-image: url('../财经客户端_files/u176c1.png');
+}
+
+.u176c1 {
+    position:absolute;
+    left:215px;
+    top:1302px;
+    width:20px;
+    height:80px;
+}
+
+.u176c2 {
+    background-image: url('../财经客户端_files/u176c2.png');
+}
+
+.u176c2 {
+    position:absolute;
+    left:215px;
+    top:1362px;
+    width:24px;
+    height:20px;
+}
+
+.u177 {
+    position:absolute;
+    left:-25px;
+    top:14px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u178c0 {
+    background-image: url('../财经客户端_files/u178c0.png');
+}
+
+.u178c0 {
+    position:absolute;
+    left:196px;
+    top:1302px;
+    width:39px;
+    height:20px;
+}
+
+.u178c1 {
+    background-image: url('../财经客户端_files/u178c1.png');
+}
+
+.u178c1 {
+    position:absolute;
+    left:215px;
+    top:1302px;
+    width:20px;
+    height:130px;
+}
+
+.u178c2 {
+    background-image: url('../财经客户端_files/u178c2.png');
+}
+
+.u178c2 {
+    position:absolute;
+    left:215px;
+    top:1412px;
+    width:24px;
+    height:20px;
+}
+
+.u179 {
+    position:absolute;
+    left:-25px;
+    top:40px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u180c0 {
+    background-image: url('../财经客户端_files/u180c0.png');
+}
+
+.u180c0 {
+    position:absolute;
+    left:196px;
+    top:1302px;
+    width:39px;
+    height:20px;
+}
+
+.u180c1 {
+    background-image: url('../财经客户端_files/u180c1.png');
+}
+
+.u180c1 {
+    position:absolute;
+    left:215px;
+    top:1302px;
+    width:20px;
+    height:180px;
+}
+
+.u180c2 {
+    background-image: url('../财经客户端_files/u180c2.png');
+}
+
+.u180c2 {
+    position:absolute;
+    left:215px;
+    top:1462px;
+    width:24px;
+    height:20px;
+}
+
+.u181 {
+    position:absolute;
+    left:-25px;
+    top:64px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u182c0 {
+    background-image: url('../财经客户端_files/u182c0.png');
+}
+
+.u182c0 {
+    position:absolute;
+    left:196px;
+    top:1302px;
+    width:39px;
+    height:20px;
+}
+
+.u182c1 {
+    background-image: url('../财经客户端_files/u182c1.png');
+}
+
+.u182c1 {
+    position:absolute;
+    left:215px;
+    top:1302px;
+    width:20px;
+    height:230px;
+}
+
+.u182c2 {
+    background-image: url('../财经客户端_files/u182c2.png');
+}
+
+.u182c2 {
+    position:absolute;
+    left:215px;
+    top:1512px;
+    width:24px;
+    height:20px;
+}
+
+.u183 {
+    position:absolute;
+    left:-25px;
+    top:90px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u184c0 {
+    background-image: url('../财经客户端_files/u184c0.png');
+}
+
+.u184c0 {
+    position:absolute;
+    left:196px;
+    top:1302px;
+    width:39px;
+    height:20px;
+}
+
+.u184c1 {
+    background-image: url('../财经客户端_files/u184c1.png');
+}
+
+.u184c1 {
+    position:absolute;
+    left:215px;
+    top:1302px;
+    width:20px;
+    height:280px;
+}
+
+.u184c2 {
+    background-image: url('../财经客户端_files/u184c2.png');
+}
+
+.u184c2 {
+    position:absolute;
+    left:215px;
+    top:1562px;
+    width:24px;
+    height:20px;
+}
+
+.u185 {
+    position:absolute;
+    left:-25px;
+    top:114px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u186c0 {
+    background-image: url('../财经客户端_files/u186c0.png');
+}
+
+.u186c0 {
+    position:absolute;
+    left:196px;
+    top:1302px;
+    width:39px;
+    height:20px;
+}
+
+.u186c1 {
+    background-image: url('../财经客户端_files/u186c1.png');
+}
+
+.u186c1 {
+    position:absolute;
+    left:215px;
+    top:1302px;
+    width:20px;
+    height:330px;
+}
+
+.u186c2 {
+    background-image: url('../财经客户端_files/u186c2.png');
+}
+
+.u186c2 {
+    position:absolute;
+    left:215px;
+    top:1612px;
+    width:24px;
+    height:20px;
+}
+
+.u187 {
+    position:absolute;
+    left:-25px;
+    top:140px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u188c0 {
+    background-image: url('../财经客户端_files/u188c0.png');
+}
+
+.u188c0 {
+    position:absolute;
+    left:196px;
+    top:1302px;
+    width:39px;
+    height:20px;
+}
+
+.u188c1 {
+    background-image: url('../财经客户端_files/u188c1.png');
+}
+
+.u188c1 {
+    position:absolute;
+    left:215px;
+    top:1302px;
+    width:20px;
+    height:380px;
+}
+
+.u188c2 {
+    background-image: url('../财经客户端_files/u188c2.png');
+}
+
+.u188c2 {
+    position:absolute;
+    left:215px;
+    top:1662px;
+    width:24px;
+    height:20px;
+}
+
+.u189 {
+    position:absolute;
+    left:-25px;
+    top:164px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u190c0 {
+    background-image: url('../财经客户端_files/u190c0.png');
+}
+
+.u190c0 {
+    position:absolute;
+    left:196px;
+    top:1302px;
+    width:39px;
+    height:20px;
+}
+
+.u190c1 {
+    background-image: url('../财经客户端_files/u190c1.png');
+}
+
+.u190c1 {
+    position:absolute;
+    left:215px;
+    top:1302px;
+    width:20px;
+    height:430px;
+}
+
+.u190c2 {
+    background-image: url('../财经客户端_files/u190c2.png');
+}
+
+.u190c2 {
+    position:absolute;
+    left:215px;
+    top:1712px;
+    width:24px;
+    height:20px;
+}
+
+.u191 {
+    position:absolute;
+    left:-25px;
+    top:190px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u192c0 {
+    background-image: url('../财经客户端_files/u192c0.png');
+}
+
+.u192c0 {
+    position:absolute;
+    left:196px;
+    top:1302px;
+    width:39px;
+    height:20px;
+}
+
+.u192c1 {
+    background-image: url('../财经客户端_files/u192c1.png');
+}
+
+.u192c1 {
+    position:absolute;
+    left:215px;
+    top:1302px;
+    width:20px;
+    height:480px;
+}
+
+.u192c2 {
+    background-image: url('../财经客户端_files/u192c2.png');
+}
+
+.u192c2 {
+    position:absolute;
+    left:215px;
+    top:1762px;
+    width:24px;
+    height:20px;
+}
+
+.u193 {
+    position:absolute;
+    left:-25px;
+    top:214px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u194_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u194_container {
+    position:absolute;
+    left:360px;
+    top:1232px;
+    width:100px;
+    height:35px;
+}
+
+#u194_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u195 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u196_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u196_container {
+    position:absolute;
+    left:360px;
+    top:1278px;
+    width:100px;
+    height:35px;
+}
+
+#u196_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u197 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u198c0 {
+    background-image: url('../财经客户端_files/u198c0.png');
+}
+
+.u198c0 {
+    position:absolute;
+    left:331px;
+    top:1262px;
+    width:29px;
+    height:20px;
+}
+
+.u198c1 {
+    background-image: url('../财经客户端_files/u198c1.png');
+}
+
+.u198c1 {
+    position:absolute;
+    left:340px;
+    top:1240px;
+    width:20px;
+    height:42px;
+}
+
+.u198c2 {
+    background-image: url('../财经客户端_files/u198c2.png');
+}
+
+.u198c2 {
+    position:absolute;
+    left:340px;
+    top:1240px;
+    width:24px;
+    height:20px;
+}
+
+.u199 {
+    position:absolute;
+    left:-35px;
+    top:-16px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u200c0 {
+    background-image: url('../财经客户端_files/u200c0.png');
+}
+
+.u200c0 {
+    position:absolute;
+    left:331px;
+    top:1262px;
+    width:29px;
+    height:20px;
+}
+
+.u200c1 {
+    background-image: url('../财经客户端_files/u200c1.png');
+}
+
+.u200c1 {
+    position:absolute;
+    left:340px;
+    top:1262px;
+    width:20px;
+    height:44px;
+}
+
+.u200c2 {
+    background-image: url('../财经客户端_files/u200c2.png');
+}
+
+.u200c2 {
+    position:absolute;
+    left:340px;
+    top:1286px;
+    width:24px;
+    height:20px;
+}
+
+.u201 {
+    position:absolute;
+    left:-35px;
+    top:2px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u202_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u202_container {
+    position:absolute;
+    left:495px;
+    top:521px;
+    width:100px;
+    height:35px;
+}
+
+#u202_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u203 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u204c0 {
+    background-image: url('../财经客户端_files/u204c0.png');
+}
+
+.u204c0 {
+    position:absolute;
+    left:456px;
+    top:530px;
+    width:39px;
+    height:20px;
+}
+
+.u204c1 {
+    background-image: url('../财经客户端_files/u204c1.png');
+}
+
+.u204c1 {
+    position:absolute;
+    left:475px;
+    top:528px;
+    width:20px;
+    height:22px;
+}
+
+.u204c2 {
+    background-image: url('../财经客户端_files/u204c2.png');
+}
+
+.u204c2 {
+    position:absolute;
+    left:475px;
+    top:528px;
+    width:24px;
+    height:20px;
+}
+
+.u205 {
+    position:absolute;
+    left:-32px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u206c0 {
+    background-image: url('../财经客户端_files/u206c0.png');
+}
+
+.u206c0 {
+    position:absolute;
+    left:591px;
+    top:528px;
+    width:39px;
+    height:20px;
+}
+
+.u206c1 {
+    background-image: url('../财经客户端_files/u206c1.png');
+}
+
+.u206c1 {
+    position:absolute;
+    left:610px;
+    top:332px;
+    width:20px;
+    height:216px;
+}
+
+.u206c2 {
+    background-image: url('../财经客户端_files/u206c2.png');
+}
+
+.u206c2 {
+    position:absolute;
+    left:610px;
+    top:332px;
+    width:80px;
+    height:20px;
+}
+
+.u206c3 {
+    background-image: url('../财经客户端_files/u206c3.png');
+}
+
+.u206c3 {
+    position:absolute;
+    left:670px;
+    top:328px;
+    width:20px;
+    height:24px;
+}
+
+.u207 {
+    position:absolute;
+    left:-25px;
+    top:-128px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u208c0 {
+    background-image: url('../财经客户端_files/u208c0.png');
+}
+
+.u208c0 {
+    position:absolute;
+    left:591px;
+    top:784px;
+    width:39px;
+    height:20px;
+}
+
+.u208c1 {
+    background-image: url('../财经客户端_files/u208c1.png');
+}
+
+.u208c1 {
+    position:absolute;
+    left:610px;
+    top:332px;
+    width:20px;
+    height:472px;
+}
+
+.u208c2 {
+    background-image: url('../财经客户端_files/u208c2.png');
+}
+
+.u208c2 {
+    position:absolute;
+    left:610px;
+    top:332px;
+    width:80px;
+    height:20px;
+}
+
+.u208c3 {
+    background-image: url('../财经客户端_files/u208c3.png');
+}
+
+.u208c3 {
+    position:absolute;
+    left:670px;
+    top:328px;
+    width:20px;
+    height:24px;
+}
+
+.u209 {
+    position:absolute;
+    left:-25px;
+    top:-256px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u210_normal {
+    background-image: url('../财经客户端_files/u210_normal.png');
+}
+
+.u210_container {
+    position:absolute;
+    left:90px;
+    top:15px;
+    width:180px;
+    height:80px;
+}
+
+#u210_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:86px;
+}
+
+.u211 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:176px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u212_normal {
+    background-image: url('../财经客户端_files/u14_normal.png');
+}
+
+.u212_container {
+    position:absolute;
+    left:685px;
+    top:625px;
+    width:100px;
+    height:35px;
+}
+
+#u212_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u213 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u214_normal {
+    background-image: url('../财经客户端_files/u14_normal.png');
+}
+
+.u214_container {
+    position:absolute;
+    left:685px;
+    top:575px;
+    width:100px;
+    height:35px;
+}
+
+#u214_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u215 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u216c0 {
+    background-image: url('../财经客户端_files/u216c0.png');
+}
+
+.u216c0 {
+    position:absolute;
+    left:591px;
+    top:528px;
+    width:94px;
+    height:20px;
+}
+
+.u216c1 {
+    background-image: url('../财经客户端_files/u216c1.png');
+}
+
+.u216c1 {
+    position:absolute;
+    left:665px;
+    top:528px;
+    width:20px;
+    height:74px;
+}
+
+.u216c2 {
+    background-image: url('../财经客户端_files/u216c2.png');
+}
+
+.u216c2 {
+    position:absolute;
+    left:665px;
+    top:582px;
+    width:24px;
+    height:20px;
+}
+
+.u217 {
+    position:absolute;
+    left:22px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u218c0 {
+    background-image: url('../财经客户端_files/u218c0.png');
+}
+
+.u218c0 {
+    position:absolute;
+    left:591px;
+    top:528px;
+    width:94px;
+    height:20px;
+}
+
+.u218c1 {
+    background-image: url('../财经客户端_files/u218c1.png');
+}
+
+.u218c1 {
+    position:absolute;
+    left:665px;
+    top:528px;
+    width:20px;
+    height:124px;
+}
+
+.u218c2 {
+    background-image: url('../财经客户端_files/u218c2.png');
+}
+
+.u218c2 {
+    position:absolute;
+    left:665px;
+    top:632px;
+    width:24px;
+    height:20px;
+}
+
+.u219 {
+    position:absolute;
+    left:30px;
+    top:9px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u220c0 {
+    background-image: url('../财经客户端_files/u220c0.png');
+}
+
+.u220c0 {
+    position:absolute;
+    left:591px;
+    top:694px;
+    width:94px;
+    height:20px;
+}
+
+.u220c1 {
+    background-image: url('../财经客户端_files/u220c1.png');
+}
+
+.u220c1 {
+    position:absolute;
+    left:665px;
+    top:582px;
+    width:20px;
+    height:132px;
+}
+
+.u220c2 {
+    background-image: url('../财经客户端_files/u220c2.png');
+}
+
+.u220c2 {
+    position:absolute;
+    left:665px;
+    top:582px;
+    width:24px;
+    height:20px;
+}
+
+.u221 {
+    position:absolute;
+    left:30px;
+    top:-29px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u222c0 {
+    background-image: url('../财经客户端_files/u222c0.png');
+}
+
+.u222c0 {
+    position:absolute;
+    left:591px;
+    top:694px;
+    width:94px;
+    height:20px;
+}
+
+.u222c1 {
+    background-image: url('../财经客户端_files/u222c1.png');
+}
+
+.u222c1 {
+    position:absolute;
+    left:665px;
+    top:632px;
+    width:20px;
+    height:82px;
+}
+
+.u222c2 {
+    background-image: url('../财经客户端_files/u222c2.png');
+}
+
+.u222c2 {
+    position:absolute;
+    left:665px;
+    top:632px;
+    width:24px;
+    height:20px;
+}
+
+.u223 {
+    position:absolute;
+    left:26px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u224c0 {
+    background-image: url('../财经客户端_files/u224c0.png');
+}
+
+.u224c0 {
+    position:absolute;
+    left:591px;
+    top:784px;
+    width:94px;
+    height:20px;
+}
+
+.u224c1 {
+    background-image: url('../财经客户端_files/u224c1.png');
+}
+
+.u224c1 {
+    position:absolute;
+    left:665px;
+    top:582px;
+    width:20px;
+    height:222px;
+}
+
+.u224c2 {
+    background-image: url('../财经客户端_files/u224c2.png');
+}
+
+.u224c2 {
+    position:absolute;
+    left:665px;
+    top:582px;
+    width:24px;
+    height:20px;
+}
+
+.u225 {
+    position:absolute;
+    left:30px;
+    top:-74px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u226c0 {
+    background-image: url('../财经客户端_files/u226c0.png');
+}
+
+.u226c0 {
+    position:absolute;
+    left:591px;
+    top:784px;
+    width:94px;
+    height:20px;
+}
+
+.u226c1 {
+    background-image: url('../财经客户端_files/u226c1.png');
+}
+
+.u226c1 {
+    position:absolute;
+    left:665px;
+    top:632px;
+    width:20px;
+    height:172px;
+}
+
+.u226c2 {
+    background-image: url('../财经客户端_files/u226c2.png');
+}
+
+.u226c2 {
+    position:absolute;
+    left:665px;
+    top:632px;
+    width:24px;
+    height:20px;
+}
+
+.u227 {
+    position:absolute;
+    left:30px;
+    top:-49px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u228_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u228_container {
+    position:absolute;
+    left:360px;
+    top:975px;
+    width:100px;
+    height:35px;
+}
+
+#u228_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u229 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u230c0 {
+    background-image: url('../财经客户端_files/u230c0.png');
+}
+
+.u230c0 {
+    position:absolute;
+    left:331px;
+    top:930px;
+    width:29px;
+    height:20px;
+}
+
+.u230c1 {
+    background-image: url('../财经客户端_files/u230c1.png');
+}
+
+.u230c1 {
+    position:absolute;
+    left:340px;
+    top:930px;
+    width:20px;
+    height:72px;
+}
+
+.u230c2 {
+    background-image: url('../财经客户端_files/u230c2.png');
+}
+
+.u230c2 {
+    position:absolute;
+    left:340px;
+    top:982px;
+    width:24px;
+    height:20px;
+}
+
+.u231 {
+    position:absolute;
+    left:-35px;
+    top:16px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u232c0 {
+    background-image: url('../财经客户端_files/u232c0.png');
+}
+
+.u232c0 {
+    position:absolute;
+    left:331px;
+    top:974px;
+    width:29px;
+    height:20px;
+}
+
+.u232c1 {
+    background-image: url('../财经客户端_files/u232c1.png');
+}
+
+.u232c1 {
+    position:absolute;
+    left:340px;
+    top:974px;
+    width:20px;
+    height:28px;
+}
+
+.u232c2 {
+    background-image: url('../财经客户端_files/u232c2.png');
+}
+
+.u232c2 {
+    position:absolute;
+    left:340px;
+    top:982px;
+    width:24px;
+    height:20px;
+}
+
+.u233 {
+    position:absolute;
+    left:-35px;
+    top:-6px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u234c0 {
+    background-image: url('../财经客户端_files/u234c0.png');
+}
+
+.u234c0 {
+    position:absolute;
+    left:331px;
+    top:1020px;
+    width:29px;
+    height:20px;
+}
+
+.u234c1 {
+    background-image: url('../财经客户端_files/u234c1.png');
+}
+
+.u234c1 {
+    position:absolute;
+    left:340px;
+    top:982px;
+    width:20px;
+    height:58px;
+}
+
+.u234c2 {
+    background-image: url('../财经客户端_files/u234c2.png');
+}
+
+.u234c2 {
+    position:absolute;
+    left:340px;
+    top:982px;
+    width:24px;
+    height:20px;
+}
+
+.u235 {
+    position:absolute;
+    left:-35px;
+    top:-24px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u236c0 {
+    background-image: url('../财经客户端_files/u236c0.png');
+}
+
+.u236c0 {
+    position:absolute;
+    left:456px;
+    top:982px;
+    width:174px;
+    height:20px;
+}
+
+.u236c1 {
+    background-image: url('../财经客户端_files/u236c1.png');
+}
+
+.u236c1 {
+    position:absolute;
+    left:610px;
+    top:304px;
+    width:20px;
+    height:698px;
+}
+
+.u236c2 {
+    background-image: url('../财经客户端_files/u236c2.png');
+}
+
+.u236c2 {
+    position:absolute;
+    left:610px;
+    top:304px;
+    width:24px;
+    height:20px;
+}
+
+.u237 {
+    position:absolute;
+    left:110px;
+    top:-272px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u238c0 {
+    background-image: url('../财经客户端_files/u238c0.png');
+}
+
+.u238c0 {
+    position:absolute;
+    left:331px;
+    top:1110px;
+    width:299px;
+    height:20px;
+}
+
+.u238c1 {
+    background-image: url('../财经客户端_files/u238c1.png');
+}
+
+.u238c1 {
+    position:absolute;
+    left:610px;
+    top:304px;
+    width:20px;
+    height:826px;
+}
+
+.u238c2 {
+    background-image: url('../财经客户端_files/u238c2.png');
+}
+
+.u238c2 {
+    position:absolute;
+    left:610px;
+    top:304px;
+    width:24px;
+    height:20px;
+}
+
+.u239 {
+    position:absolute;
+    left:235px;
+    top:-274px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u240_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u240_container {
+    position:absolute;
+    left:235px;
+    top:201px;
+    width:100px;
+    height:35px;
+}
+
+#u240_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u241 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u242_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u242_container {
+    position:absolute;
+    left:235px;
+    top:246px;
+    width:100px;
+    height:35px;
+}
+
+#u242_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u243 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u244_normal {
+    background-image: url('../财经客户端_files/u0_normal.png');
+}
+
+.u244_container {
+    position:absolute;
+    left:235px;
+    top:291px;
+    width:100px;
+    height:35px;
+}
+
+#u244_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u245 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u246c0 {
+    background-image: url('../财经客户端_files/u246c0.png');
+}
+
+.u246c0 {
+    position:absolute;
+    left:190px;
+    top:208px;
+    width:20px;
+    height:61px;
+}
+
+.u246c1 {
+    background-image: url('../财经客户端_files/u246c1.png');
+}
+
+.u246c1 {
+    position:absolute;
+    left:190px;
+    top:208px;
+    width:49px;
+    height:20px;
+}
+
+.u247 {
+    position:absolute;
+    left:-50px;
+    top:-49px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u248c0 {
+    background-image: url('../财经客户端_files/u248c0.png');
+}
+
+.u248c0 {
+    position:absolute;
+    left:190px;
+    top:254px;
+    width:20px;
+    height:15px;
+}
+
+.u248c1 {
+    background-image: url('../财经客户端_files/u248c1.png');
+}
+
+.u248c1 {
+    position:absolute;
+    left:190px;
+    top:254px;
+    width:49px;
+    height:20px;
+}
+
+.u249 {
+    position:absolute;
+    left:-33px;
+    top:-9px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u250c0 {
+    background-image: url('../财经客户端_files/u250c0.png');
+}
+
+.u250c0 {
+    position:absolute;
+    left:190px;
+    top:261px;
+    width:20px;
+    height:57px;
+}
+
+.u250c1 {
+    background-image: url('../财经客户端_files/u250c1.png');
+}
+
+.u250c1 {
+    position:absolute;
+    left:190px;
+    top:298px;
+    width:49px;
+    height:20px;
+}
+
+.u251 {
+    position:absolute;
+    left:-50px;
+    top:31px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u252c0 {
+    background-image: url('../财经客户端_files/u252c0.png');
+}
+
+.u252c0 {
+    position:absolute;
+    left:331px;
+    top:208px;
+    width:29px;
+    height:20px;
+}
+
+.u252c1 {
+    background-image: url('../财经客户端_files/u252c1.png');
+}
+
+.u252c1 {
+    position:absolute;
+    left:340px;
+    top:180px;
+    width:20px;
+    height:48px;
+}
+
+.u252c2 {
+    background-image: url('../财经客户端_files/u252c2.png');
+}
+
+.u252c2 {
+    position:absolute;
+    left:340px;
+    top:180px;
+    width:24px;
+    height:20px;
+}
+
+.u253 {
+    position:absolute;
+    left:-35px;
+    top:-20px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u254c0 {
+    background-image: url('../财经客户端_files/u254c0.png');
+}
+
+.u254c0 {
+    position:absolute;
+    left:331px;
+    top:208px;
+    width:29px;
+    height:20px;
+}
+
+.u254c1 {
+    background-image: url('../财经客户端_files/u254c1.png');
+}
+
+.u254c1 {
+    position:absolute;
+    left:340px;
+    top:208px;
+    width:20px;
+    height:152px;
+}
+
+.u254c2 {
+    background-image: url('../财经客户端_files/u254c2.png');
+}
+
+.u254c2 {
+    position:absolute;
+    left:340px;
+    top:340px;
+    width:24px;
+    height:20px;
+}
+
+.u255 {
+    position:absolute;
+    left:-35px;
+    top:56px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u256c0 {
+    background-image: url('../财经客户端_files/u256c0.png');
+}
+
+.u256c0 {
+    position:absolute;
+    left:331px;
+    top:298px;
+    width:29px;
+    height:20px;
+}
+
+.u256c1 {
+    background-image: url('../财经客户端_files/u256c1.png');
+}
+
+.u256c1 {
+    position:absolute;
+    left:340px;
+    top:298px;
+    width:20px;
+    height:62px;
+}
+
+.u256c2 {
+    background-image: url('../财经客户端_files/u256c2.png');
+}
+
+.u256c2 {
+    position:absolute;
+    left:340px;
+    top:340px;
+    width:24px;
+    height:20px;
+}
+
+.u257 {
+    position:absolute;
+    left:-35px;
+    top:10px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u258c0 {
+    background-image: url('../财经客户端_files/u258c0.png');
+}
+
+.u258c0 {
+    position:absolute;
+    left:331px;
+    top:254px;
+    width:29px;
+    height:20px;
+}
+
+.u258c1 {
+    background-image: url('../财经客户端_files/u258c1.png');
+}
+
+.u258c1 {
+    position:absolute;
+    left:340px;
+    top:180px;
+    width:20px;
+    height:94px;
+}
+
+.u258c2 {
+    background-image: url('../财经客户端_files/u258c2.png');
+}
+
+.u258c2 {
+    position:absolute;
+    left:340px;
+    top:180px;
+    width:24px;
+    height:20px;
+}
+
+.u259 {
+    position:absolute;
+    left:-35px;
+    top:-42px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u260c0 {
+    background-image: url('../财经客户端_files/u260c0.png');
+}
+
+.u260c0 {
+    position:absolute;
+    left:331px;
+    top:254px;
+    width:29px;
+    height:20px;
+}
+
+.u260c1 {
+    background-image: url('../财经客户端_files/u260c1.png');
+}
+
+.u260c1 {
+    position:absolute;
+    left:340px;
+    top:254px;
+    width:20px;
+    height:106px;
+}
+
+.u260c2 {
+    background-image: url('../财经客户端_files/u260c2.png');
+}
+
+.u260c2 {
+    position:absolute;
+    left:340px;
+    top:340px;
+    width:24px;
+    height:20px;
+}
+
+.u261 {
+    position:absolute;
+    left:-35px;
+    top:32px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u262c0 {
+    background-image: url('../财经客户端_files/u262c0.png');
+}
+
+.u262c0 {
+    position:absolute;
+    left:456px;
+    top:180px;
+    width:39px;
+    height:20px;
+}
+
+.u262c1 {
+    background-image: url('../财经客户端_files/u262c1.png');
+}
+
+.u262c1 {
+    position:absolute;
+    left:475px;
+    top:134px;
+    width:20px;
+    height:66px;
+}
+
+.u262c2 {
+    background-image: url('../财经客户端_files/u262c2.png');
+}
+
+.u262c2 {
+    position:absolute;
+    left:475px;
+    top:134px;
+    width:24px;
+    height:20px;
+}
+
+.u263 {
+    position:absolute;
+    left:-25px;
+    top:-24px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u264c0 {
+    background-image: url('../财经客户端_files/u264c0.png');
+}
+
+.u264c0 {
+    position:absolute;
+    left:456px;
+    top:180px;
+    width:39px;
+    height:20px;
+}
+
+.u264c1 {
+    background-image: url('../财经客户端_files/u264c1.png');
+}
+
+.u264c1 {
+    position:absolute;
+    left:475px;
+    top:180px;
+    width:20px;
+    height:64px;
+}
+
+.u264c2 {
+    background-image: url('../财经客户端_files/u264c2.png');
+}
+
+.u264c2 {
+    position:absolute;
+    left:475px;
+    top:224px;
+    width:24px;
+    height:20px;
+}
+
+.u265 {
+    position:absolute;
+    left:-25px;
+    top:6px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u266c0 {
+    background-image: url('../财经客户端_files/u266c0.png');
+}
+
+.u266c0 {
+    position:absolute;
+    left:591px;
+    top:134px;
+    width:39px;
+    height:20px;
+}
+
+.u266c1 {
+    background-image: url('../财经客户端_files/u266c1.png');
+}
+
+.u266c1 {
+    position:absolute;
+    left:610px;
+    top:110px;
+    width:20px;
+    height:44px;
+}
+
+.u266c2 {
+    background-image: url('../财经客户端_files/u266c2.png');
+}
+
+.u266c2 {
+    position:absolute;
+    left:610px;
+    top:110px;
+    width:24px;
+    height:20px;
+}
+
+.u267 {
+    position:absolute;
+    left:-25px;
+    top:-12px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u268c0 {
+    background-image: url('../财经客户端_files/u268c0.png');
+}
+
+.u268c0 {
+    position:absolute;
+    left:591px;
+    top:134px;
+    width:39px;
+    height:20px;
+}
+
+.u268c1 {
+    background-image: url('../财经客户端_files/u268c1.png');
+}
+
+.u268c1 {
+    position:absolute;
+    left:610px;
+    top:134px;
+    width:20px;
+    height:40px;
+}
+
+.u268c2 {
+    background-image: url('../财经客户端_files/u268c2.png');
+}
+
+.u268c2 {
+    position:absolute;
+    left:610px;
+    top:154px;
+    width:24px;
+    height:20px;
+}
+
+.u269 {
+    position:absolute;
+    left:-25px;
+    top:-6px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u270c0 {
+    background-image: url('../财经客户端_files/u270c0.png');
+}
+
+.u270c0 {
+    position:absolute;
+    left:591px;
+    top:224px;
+    width:39px;
+    height:20px;
+}
+
+.u270c1 {
+    background-image: url('../财经客户端_files/u270c1.png');
+}
+
+.u270c1 {
+    position:absolute;
+    left:610px;
+    top:202px;
+    width:20px;
+    height:42px;
+}
+
+.u270c2 {
+    background-image: url('../财经客户端_files/u270c2.png');
+}
+
+.u270c2 {
+    position:absolute;
+    left:610px;
+    top:202px;
+    width:24px;
+    height:20px;
+}
+
+.u271 {
+    position:absolute;
+    left:-25px;
+    top:-12px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u272c0 {
+    background-image: url('../财经客户端_files/u272c0.png');
+}
+
+.u272c0 {
+    position:absolute;
+    left:591px;
+    top:224px;
+    width:39px;
+    height:20px;
+}
+
+.u272c1 {
+    background-image: url('../财经客户端_files/u272c1.png');
+}
+
+.u272c1 {
+    position:absolute;
+    left:610px;
+    top:224px;
+    width:20px;
+    height:44px;
+}
+
+.u272c2 {
+    background-image: url('../财经客户端_files/u272c2.png');
+}
+
+.u272c2 {
+    position:absolute;
+    left:610px;
+    top:248px;
+    width:24px;
+    height:20px;
+}
+
+.u273 {
+    position:absolute;
+    left:-25px;
+    top:-4px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
